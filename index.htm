@@ -1,0 +1,91 @@
+<html>
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="index.css" />
+</head>
+
+<script>
+    let speech = new SpeechSynthesisUtterance();
+    speech.lang = "en";
+
+    function startTimer(duration, display) {
+        var start = Date.now(),
+            diff,
+            minutes,
+            seconds;
+        var refreshIntervalId;
+
+        function timer() {
+            // get the number of seconds that have elapsed since 
+            // startTimer() was called
+            diff = duration - (((Date.now() - start) / 1000) | 0);
+
+            // does the same job as parseInt truncates the float
+            minutes = (diff / 60) | 0;
+            seconds = (diff % 60) | 0;
+
+            minutes = minutes < 10 ? "0" + minutes : minutes;
+            seconds = seconds < 10 ? "0" + seconds : seconds;
+
+            display.textContent = minutes + ":" + seconds;
+
+            if (diff <= 0) {
+                // add one second so that the count down starts at the full duration
+                // example 05:00 not 04:59
+                clearInterval(refreshIntervalId);
+            }
+        };
+        // we don't want to wait a full second before the timer starts
+        refreshIntervalId = setInterval(timer, 1000);
+        timer();
+    }
+
+    window.onload = function () {
+       
+        speech.addEventListener("end",
+            () => {
+                var fiveMinutes = 20,
+                    display = document.querySelector('#time');
+                startTimer(fiveMinutes, display);
+            }
+        );
+
+        document.querySelector("#play").addEventListener("click", () => {
+            speech.text = "Hello test";
+            window.speechSynthesis.speak(speech);
+        });
+
+        voices = window.speechSynthesis.getVoices();
+    };
+
+</script>
+<body class="container mt-5 bg-dark">
+    <table align="left">
+        <tr>
+            <td align="left">
+                <h1 id="time" class="text-light" style="font-size: 200px">05:00</h1>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class="text-light" width="50">
+                            <button id="prev" class="btn btn-success mt-5 me-3">Prev</button>
+                        </td>
+                        <td class="text-light" width="50">
+                            <button id="next" class="btn btn-success mt-5 me-3">Next</button>
+                        </td>
+                        <td class="text-light" width="50">
+                            <button id="play" class="btn btn-success mt-5 me-3">Play</button>
+                        </td>
+                        <td class="text-light" width="50">
+                            <button id="anwser" class="btn btn-danger mt-5 me-3">Anwser</button>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
