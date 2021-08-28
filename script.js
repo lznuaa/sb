@@ -69,6 +69,7 @@ window.onload = () => {
 	window.speechSynthesis.cancel();
         speech.onend = () => {timer(20)};
         speech.text = txt[count].question;
+	log("set rate");
         window.speechSynthesis.speak(speech);
     });
 
@@ -118,4 +119,5 @@ window.onload = () => {
 
 let speech = new SpeechSynthesisUtterance();
 speech.lang = "en";
-speech.voice = voices["Microsoft Zira - English(United States)"];
+speech.rate = 0.7;
+speech.voice = voices[0];
