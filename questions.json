@@ -1,10 +1,205 @@
 [
 	{
-		"question": "question 1",
-		"answer": "no"
+		"question": "CHEMISTRY Multiple Choice \n The conversion of solid \n Ca S O 4 into solid Ca O \n and S O 2 gas \n is an example of what class of chemical reaction: \n W) decomposition \n X) hydrolysis \n Y) combustion \n Z) single replacement",
+		"answer": "ANSWER: W) DECOMPOSITION"
 	},
 	{
-		"question": "question 2",
-		"answer": "idk"
-	}
+		"question": "CHEMISTRY Short Answer \n What is the oxidation number of chromium in the chromate ion, or \n Cr O 4 \n 2 negative charge",
+		"answer": "ANSWER: 6 (ACCEPT: +6)"
+	},
+  {
+    "question": "BIOLOGY Short Answer \n What is the most common term for the method \n Louis Pasteur \n used to create the first \n rabies vaccine?"
+    "answer": "ANSWER: ATTENUATION"
+  },
+  { 
+    "question": "BIOLOGY Multiple Choice \n Which of the following BEST describes how \n Pasteur attenuated \n the rabies virus to create an effective vaccine: \n W) by heat-treating the purified virus \n X) by treating the live virus with a weak solution of formaldehyde \n Y) by passing the rabies infection through a successive series of rabbits \n Z) by purifying the protein from the viral capsids"
+    "answer":"ANSWER: Y) BY PASSING THE RABIES INFECTION THROUGH A SUCCESSIVE SERIES OF RABBITS"
+  },
+  { 
+    "question": "PHYSICS Short Answer \n The nucleus of what element is the same as an \n ALPHA particle?"
+    "answer": "ANSWER: HELIUM"
+  },
+  { 
+    "question": "PHYSICS Short Answer \n Name all of the following 4 choices that would typically be considered \n to supply electromotive force: \n transformers; \n generators; \n batteries; \n conductors"
+    "answer":"ANSWER: TRANSFORMERS; GENERATORS; BATTERIES (ACCEPT: ALL BUT CONDUCTORS)"
+  },
+  { 
+    "question": "MATH Short Answer \n Simplify the following without the use of negative exponents: \n negative 24 time \n x to the 3 power time \n y to the 5 power \n over whole \n 10 time \n y to the 6 power time\n z squared."
+ 
+    "answer":" ANSWER: negative 12 x to the 3 power over 5 y z squared"
+  },
+  { 
+    "question": "MATH Short Answer\n It takes 20 minutes for Janis to prepare lunch. \n When Kristen helps, it only takes 12 minutes. \n How many minutes would it take Kristen to prepare the same lunch if she worked alone?"
+    "answer": "ANSWER: 30"
+  },
+  { 
+    "question": "EARTH SCIENCE Multiple Choice \n Which of the following is commonly accepted \n as the engine that most directly drives \n plate tectonic motion:\n W) mantle convection \n X) volcanic off-gassing \n Y) a molten iron core \n Z) gravitational pull of the Moon and Sun"
+    "answer": "ANSWER: W) MANTLE CONVECTION"
+  },
+  { 
+    "question": "EARTH SCIENCE Multiple Choice \n Although scientists are unable to obtain samples by drilling, \n they believe the predominant mineral in the mantle is: \n W) iron pyrite \n X) potassium feldspar \n Y) quartz \n Z) olivine"
+    "answer": "ANSWER: Z) OLIVINE"
+  },
+  { 
+    "question": "GENERAL SCIENCE Multiple Choice \n What is the MOST accurate term for predicting values of data \n that are located between known data points on a line graph: \n W) extrapolation \n X) extension \nY) interpolation \n Z) cheating"
+    "answer": "ANSWER: Z) OLIVINE"
+  },
+  { 
+    "question": "GENERAL SCIENCE Short Answer \n Convert \n 0.001 grams per cubic - millimeter \n into kilograms per cubic - meter: "
+    "answer": "ANSWER: 1,000"
+  },
+  { 
+    "question": "ASTRONOMY Multiple Choice \n The luminosity of a star is most directly related to the star＊s: \n W) relative magnitude \n X) magnitude \n Y) distance from Earth \n Z) intrinsic brightness"
+    "answer": "ANSWER: Z) INTRINSIC BRIGHTNESS"
+  },
+  { 
+    "question": "ASTRONOMY Multiple Choice \n At which of the following locations would - Betelgeuse most likely be found by \n a stargazer at  mid-northern latitudes \n during January at about midnight: \nW) at the beginning of the handle of the big dipper \n X) at the zenith near the star Vega \n Y) about 10 degree north of Orion＊s belt in the southern sky \nZ) in the northern sky just above the star Capella"
+    "answer": "ANSWER: Y) ABOUT 10o NORTH OF ORION＊S BELT IN THE SOUTHERN SKY"
+  },
+   { 
+    "question": "CHEMISTRY Multiple Choice \n Ca (O H) 2, Na O H, and Ba (O H) 2, are all: \n W) weak bases \n X) completely ionized in water \n Y) alkali halides \n Z) standard buffers"
+    "answer": "ANSWER: X) COMPLETELY IONIZED IN WATER"
+  },
+   { 
+    "question": "CHEMISTRY Multiple Choice Which of the following compounds is most SOLUBLE in water at 10 oC: \n W) K N O 3 \n X) C a S O 4\n Y) BaSO4 \n Z) AgBr"
+    "answer": "ANSWER: W) K N O 3"
+  },
+   { 
+    "question": " BIOLOGY Multiple Choice \n Which of the following molecules do - methanogens - most often use as their final -  electron acceptor - in their generation of energy: \n W) hydrogen \n X) carbon dioxide \n Y) methane \n Z) oxygen"
+    "answer": "ANSWER: X) CARBON DIOXIDE"
+  },
+   { 
+    "question": "BIOLOGY Short Answer \n What is the general biological term for organisms \n that synthesize organic molecules \nfrom inorganic molecules \n using light as an energy source?"
+    "answer": "ANSWER: PHOTOAUTOTROPHS"
+  },
+   { 
+    "question": "PHYSICS Multiple Choice \n Which of the following BEST explains \n why gravitational acceleration on Earth \n varies from one place to another:\n W) the Sun＊s gravitational pull varies irregularly \n X) the Earth is not a uniform sphere \n Y) the Moon and the Sun exert a complex combination of gravitational pulls on the Earth \n Z) the changing angular momentum of the Earth varies during its yearly orbit
+"
+    "answer": "ANSWER: X) THE EARTH IS NOT A UNIFORM SPHERE"
+  },
+   { 
+    "question": " PHYSICS Short Answer \n If a wave has a frequency of 500 hertz, what is its period, in seconds?"
+    "answer": "ANSWER: 0.002"
+  },
+   { 
+    "question": " MATH Short Answer \n In a circle with diameter A B, \n if the radius is 6 centimeters, \n find the length in centimeters, \n giving your answer in terms of 羽, \n of the arc A B:"
+    "answer":"ANSWER: 6羽"
+  },
+  { 
+    "question": " MATH Short Answer \n Find the area, in square centimeters, \n of a rhombus with \n a diagonal of - 6 centimeters \n and  \n a side of - 5 centimeters:"
+    "answer": "ANSWER: 24"
+  },
+  { 
+    "question": "EARTH SCIENCE Multiple Choice \n Which of the following is NOT true: \n W) Mount Everest is a volcanic mountain \n X) shield volcanoes have surface slopes of only a few degrees \n Y) the depression on the top of a typical composite volcano is known as a crater \n Z) Mount Kilimanjaro is a stratovolcano"
+    "answer": "ANSWER: W) MOUNT EVEREST IS A VOLCANIC MOUNTAIN"
+  },
+  { 
+    "question": "EARTH SCIENCE Multiple Choice \n Which of the following are likely to form \n in the crater of a stratovolcano \n following a catastrophic eruption, \n such as what happened several times \n in Mount Saint Helens: \n W) cinder cones \n  X) lava domes \n Y) flood basalts \n  Z) spatter cones"
+    "answer": "ANSWER: X) LAVA DOMES"
+  },
+  { 
+    "question": "GENERAL SCIENCE Multiple Choice \n Biomagnification is MOST likely to result in the concentration \n of toxic hemicals in: \n W) chemoautotrophs \n X) eutrophic lakes \n Y) primary consumers \n Z) primary producers"
+    "answer": "ANSWER: Y) PRIMARY CONSUMERS"
+  },
+  { 
+    "question": "GENERAL SCIENCE Short Answer \n HDPE is a tough plastic often used for the manufacture of toys. \n What monomer is the primary repeating unit in this polymer?"
+    "answer":"ANSWER: ETHYLENE (ACCEPT: ETHENE)"
+  },
+  { 
+    "question": "ASTRONOMY Short Answer \n The formation of what is referred to as ※metallic hydrogen§ \n on some of the our solar system＊s planets is \n driven by what basic force?"
+    "answer": "ANSWER: GRAVITY"
+  },
+  { 
+    "question": "ASTRONOMY Multiple Choice \n Which of the following would typically appear to be \n the farthest away from the ecliptic: \n W) the planet Mars \n X) the constellation Leo \n Y) the Sun \n Z) the constellation Cassiopeia"
+    "answer":"ANSWER: Z) THE CONSTELLATION CASSIOPEIA"
+  },
+  { 
+    "question": "CHEMISTRY Multiple Choice \n The electronegativity of oxygen is \n 3.4 \n and the electronegativity of calcium is \n 1.0. \n Which of the following best describes the formation of the calcium oxide:\n W) 2 electrons are transferred from calcium to oxygen \n X) 2 electrons are transferred from oxygen to calcium \n Y) 2 electrons are shared between calcium and oxygen \n Z) 1 electron is shared and another is transferred from calcium to oxygen"
+    "answer": "ANSWER: W) 2 ELECTRONS ARE TRANSFERRED FROM CALCIUM TO OXYGEN"
+  },
+  { 
+    "question": "CHEMISTRY Short Answer \n What is the chemical formula for \n the conjugate base of \n H N O 2?
+    "answer": "ANSWER: N O 2 每 one nagetive charge "
+  },
+  { 
+    "question": "BIOLOGY Short Answer \n By words or numbers, name all of the following 3 functions \n that meiosis accomplishes: \n 1) reducing the copies of alleles \n in the ovum and sperm \n 2) reducing the numbers of chromosomes \n in the ovum and sperm \n 3) increasing genetic diversity \n through chromosomal exchange events"
+    "answer":"ANSWER: ALL"
+  },
+  { 
+    "question": "BIOLOGY Short Answer \n Which one of the basic 3 plant cell types \n has irregularly thickened cell walls, retains its cytoplasm, and functions in structural support?"
+    "answer": "ANSWER: COLLENCHYMA"
+  },
+  { 
+    "question": "PHYSICS Multiple Choice \n Which of the following is the part of an electric motor that functions as an electromagnet: \n W) ballast \n X) relay \n Y) armature \n Z) brushes"
+    "answer": "ANSWER: Y) ARMATURE"
+  },
+  { 
+    "question": "PHYSICS Short Answer \n Using -g rounded to the first decimal place, \n how much does an \n 80-kilogram person weigh on Earth, \n giving your answer in proper SI units?"
+    "answer": "ANSWER: 784 NEWTONS (must give units)"
+  },
+  { 
+    "question": "MATH Short Answer \n  A jar of 100 marbles contains only 2 colors of marbles, \n red and blue. \n If there are \n 13 red marbles \n  for \n every - 12 blue marbles,\n how many blue marbles are in the jar?"
+    "answer": "ANSWER: 48"
+  },
+  { 
+    "question": "MATH Short Answer \n   Solve the following inequality for x: \n the absolute value of, 3 minus 2x, close absolute value, \nis less than or equal to 7"
+    "answer": "ANSWER: 每2 ≒ x ≒ 5 (ACCEPT: 5 ≡ x ≡ 每2)"
+  },
+  { 
+    "question": "EARTH SCIENCE Multiple Choice \n Which of the following is igneous and pyroclastic in nature, and is of variable composition: \n W) pumice \n X) obsidian \n Y) gabbro \n Z) tuff"
+    "answer": "ANSWER: Z) TUFF"
+  },
+  { 
+    "question": "EARTH SCIENCE Multiple Choice Which of the following are clastic in origin: \n W) chalk \n X) coal \n Y) gypsum \n Z) sandstone"
+    "answer":"ANSWER: Z) SANDSTONE"
+  },
+  { 
+    "question": "GENERAL SCIENCE Multiple Choice \n Which of the following is an all but \n obsolete battery technology  \n stopped by government regulations in this country \n because of toxicity issues: \n W) nickel-cadmium cells \n X) mercury-oxide cells \n Y) zinc-air cells \n Z) aluminum-air cells"
+    "answer": "ANSWER: W) MERCURY-OXIDE CELLS"
+  },
+  { 
+    "question": "GENERAL SCIENCE Multiple Choice \n Which of the following best explains \n why carbon monoxide is very harmful to animals: \n W) it binds very strongly to hemoglobin \n X) it is an irritant to the alveolar lining \n Y) it is a highly potent neurotoxin \nZ) it causes a severe allergic reaction"
+    "answer": "ANSWER: W) IT BINDS VERY STRONGLY TO HEMOGLOBIN"
+  },
+  { 
+    "question": "ASTRONOMY Short Answer \n What terrestrial planet has the most elliptical orbit?"
+    "answer": "ANSWER: MERCURY"
+  },
+  { 
+    "question": "ASTRONOMY Short Answer \n Although you might expect this planet to be visible to the unaided eye \n because of its maximum apparent magnitude value of about +5.8, \n what planet is unlikely to be seen by most stargazers \n since it requires nearly ideal viewing conditions?
+    "answer": "ANSWER: URANUS"
+  },
+  { 
+    "question": "CHEMISTRY Multiple Choice \n Which of the following ions does NOT have a - noble - gas - electron configuration in - ionic compounds: \n W) Ca 2+ \n X) F one negative charge \n Y) Al 3+ \n Z) Na one negative charge"
+    "answer": "ANSWER: Z) Na每"
+  },
+  { 
+    "question": "CHEMISTRY Multiple Choice \n Charles law is particularly useful in explaining which of the following: \n W) dry air is more dense than humid air \n X) C O 2 escapes from a bottle of soda when opened \n Y) the change in enthalpy when nitrogen and oxygen react to form nitrogen dioxide \n Z) a hot-air balloon rises when the air in the balloon is heated"
+    "answer": "ANSWER: Z) A HOT-AIR BALLOON RISES WHEN THE AIR IN THE BALLOON IS HEATED"
+  },
+  { 
+    "question": "BIOLOGY Short Answer \n What are the common names for the 2 functional groups \n that combine to form a peptide bond?"
+    "answer": "ANSWER: AMINO; CARBOXYL (ACCEPT: AMINE AND CARBOXYLIC ACID)"
+  },
+  { 
+    "question": "BIOLOGY Short Answer \n What 2 ions are most directly involved with the conduction of a nerve cell message down an axon?"
+    "answer": "ANSWER: SODIUM AND POTASSIUM (ACCEPT: Na+ AND K+)"
+  },
+  { 
+    "question": "PHYSICS Multiple Choice  \n A boat＊s velocity has a \n northward velocity component of \n 15 kilometers per hour \n and an \n eastward component of \n 10 kilometers per hour. \n  Which of the following BEST represents the direction of the boat＊s motion: \n W) 35 kilometers per hour \n northeast \n X) 35 kilometers per hour \n southwest \n Y) 18 kilometers per hour \n northeast \n Z) 12 kilometers per hour northeast"
+    "answer": "ANSWER: Y) 18 KILOMETERS PER HOUR NORTHEAST"
+  },
+  { 
+    "question": "PHYSICS Short Answer \n What are the frequencies of the first and second overtones, respectively, for a string vibrating at a fundamental frequency of 440 hertz?"
+    "answer": "ANSWER: FIRST = 880; SECOND = 1320"
+  },
+  
+  { 
+    "question": "Math Short Answer \n Assuming that the natural log of 5 \n=  \n 1.6, find, \n to the first decimal place, the natural log of 5 to the power 1 thirds. "
+    "answer": "ANSWER: 0.5"
+  },
+  { 
+    "question": "MATH Short Answer \n Factor the following expression completely: \n 100 x squared \n minus \n 25 y squared"
+    "answer": "ANSWER: 25(2x + y)(2x 每 y)"
+  }
 ]
