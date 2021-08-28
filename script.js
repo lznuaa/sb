@@ -1,3 +1,7 @@
+$.ajaxSetup({
+	    cache: false
+});
+
 let doLog = true;
 let log = (s) => {
     if(doLog)
@@ -62,7 +66,8 @@ window.onload = () => {
 
     document.getElementById("play").addEventListener("click", () => {
         log("play pressed");
-        timer(20);
+	window.speechSynthesis.cancel();
+        speech.onend = () => {timer(20)};
         speech.text = txt[count].question;
         window.speechSynthesis.speak(speech);
     });
@@ -103,6 +108,7 @@ window.onload = () => {
     document.getElementById("anwser").addEventListener("click", () => {
         log("answer pressed");
         speech.text = txt[count].answer;
+	speech.onend = null;
         window.speechSynthesis.speak(speech);
         document.getElementById("ans").innerText = "Answer: " + txt[count].answer;
         pause();
@@ -112,3 +118,4 @@ window.onload = () => {
 
 let speech = new SpeechSynthesisUtterance();
 speech.lang = "en";
+speech.voice = voices["Microsoft Zira - English(United States)"];
