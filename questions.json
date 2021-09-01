@@ -1,255 +1,195 @@
 [
-	{
-		"question": "CHEMISTRY Multiple Choice \n The conversion of solid \n Ca S O 4 into solid Ca O \n and S O 2 gas \n is an example of what class of chemical reaction: \n W) decomposition \n X) hydrolysis \n Y) combustion \n Z) single replacement",
-    "answer": "ANSWER: W) DECOMPOSITION",
-      "c": 4
-	},
-	{
-		"question": "CHEMISTRY Short Answer \n What is the oxidation number of chromium in \n the chromate ion, or \n Cr O 4 \n 2 negative charge",
-    "answer": "ANSWER: 6 (ACCEPT: +6)",
-      "c": 1
-	},
+  { 
+    "question": "PHYSICS Multiple Choice Which of the following most commonly functions to limit current to one direction:\n W) capacitor \n X) transformer \n Y) resistor \n Z) diode",
+    "answer": "ANSWER: Z) DIODE",
+  },
+  { "question": "PHYSICS Short Answer Debbie pushes a 10-kilogram box of books with a horizontal force of 500 newtons. What is the acceleration of the box, giving your answer in standard SI units, if friction is neglected?",
+    "answer": "ANSWER: 50 METERS PER SECOND SQUARED (ACCEPT: 50 METERS PER SECOND PERSECOND)",
+  },
+  { "question": "CHEMISTRY Short Answer If pure water is at its boiling point at standard pressure, how many additional calories of heat are needed to convert 1 gram of water from the liquid to the vapor state?",
+    "answer": "ANSWER: 540",
+  },
   {
-    "question": "BIOLOGY Short Answer \n What is the most common term for the method \n Louis Pasteur \n used to create the first \n rabies vaccine?",
-    "answer": "ANSWER: ATTENUATION",
-    "c":  0
+    "question": "CHEMISTRY Short Answer What is the name for the straight-chain alkane containing 5 carbons?",
+    "answer": "ANSWER: PENTANE",
   },
   { 
-    "question": "BIOLOGY Multiple Choice \n Which of the following BEST describes how \n Pasteur attenuated \n the rabies virus to create an effective vaccine: \n W) by heat-treating the purified virus \n X) by treating the live virus with a weak solution of formaldehyde \n Y) by passing the rabies infection through a successive series of rabbits \n Z) by purifying the protein from the viral capsids",
-    "answer": "ANSWER: Y) BY PASSING THE RABIES INFECTION THROUGH A SUCCESSIVE SERIES OF RABBITS",
-    "c":  0
+    "question": "BIOLOGY Short Answer In what part of photosynthesis, named after its discoverers, is NADPH used to produce 3-carbon sugar phosphate molecules?",
+    "answer": "ANSWER: CALVIN CYCLE (ACCEPT: CALVIN-BENSON CYCLE or CALVIN-BENSONBASSHAM CYCLE)",
+   },
+  {
+    "question": "BIOLOGY Short Answer For every carbon dioxide molecule fixed in the Calvin-Benson cycle, how many NADPH molecules are utilized?",
+    "answer": "2",
+  },
+  { "question": "MATH Short Answer What is the specific name for a common tangent that intersects the segment joining the centers of 2 circles?",
+    "answer": "ANSWER: INTERNAL COMMON TANGENT (ACCEPT: INTERNAL or INTERNAL TANGENT)",
+  },
+  {
+    "question": "MATH Short Answer A flagpole casts a 100-foot long shadow. If a 6-foot tall person standing at the base of the pole casts an 8-foot shadow, how many feet tall is the flagpole?",
+    "answer": "ANSWER: 75",
+  },
+  {
+    "question": "EARTH SCIENCE Multiple Choice Which of the following happens to the shells of snails and limpets as seawater becomes increasingly acidic: \n W) they begin to dissolve \n X) they become thicker \n Y) they develop much later in the organism＊s life \n Z) they become darker",
+    "answer": "ANSWER: W) THEY BEGIN TO DISSOLVE",
+  },
+  {
+    "question": "EARTH SCIENCE Multiple Choice Continental margins facing the edges of diverging tectonic plates are called: \n W) passive margins \n X) Pacific-type margins \n Y) transform fault margins \n Z) active margins",
+    "answer": "ANSWER: W) PASSIVE MARGINS",
   },
   { 
-    "question": "PHYSICS Short Answer \n The nucleus of what element is the same as an \n ALPHA particle?",
-    "answer": "ANSWER: HELIUM",
-    "c": 1
+    "question": "GENERAL SCIENCE Short Answer Giving your answer to the first decimal place, an increase of 1oC is equivalent to an increase of how many degrees Fahrenheit?",
+    "answer": "ANSWER: 1.8",
+  },
+  {
+    "quesiton": "GENERAL SCIENCE Short Answer Convert 140oF into degrees Celsius:",
+    "answer": "ANSWER: 60", 
+  },
+  {
+    "question": "ASTRONOMY Multiple Choice Which of the following best explains from where most of the dust that covers the surface of the Moon came: \n W) weathering when the Moon was young and had an atmosphere \n X) interstellar dust deposited over billions of years \n Y) from rock pulverized from many impacts \n Z) from its original makeup of a soft, silicate rock", 
+    "answer": "ANSWER: Y) FROM ROCK PULVERIZED FROM MANY IMPACTS",
+  },
+  { "question": "ASTRONOMY Short Answer What physical property of stars is most directly responsible for how long they will continue fusion?",
+    "answer": "ANSWER: MASS",
+  },
+  {
+    "question": "PHYSICS Multiple Choice Which of the following is the device in a galvanic cell that completes the electric circuit by connecting the two sides of the cell with an inert electrolyte: \n W) electrolytic reservoir \n X) cathode \n Y) conducting wire \n Z) salt bridge",
+    "answer": "ANSWER: Z) SALT BRIDGE",
+  },
+  {
+    "question": "PHYSICS Short Answer How many joules are in a single watt-hour?",
+    "answer": "ANSWER: 3,600",
+  },
+  { "question": "CHEMISTRY Short Answer If the electronegativity difference in the bonding atoms is intermediate in strength, what general type of bond is typically formed? ",
+    "answer": "ANSWER: POLAR COVALENT (DO NOT ACCEPT: COVALENT)",
+  },
+  {
+    "question": "CHEMISTRY Multiple Choice Which of the following is a molecule having a nonpolar covalent bond: \n W) bromine gas \n X) hydrogen fluoride \n Y) water \n Z) hydrogen bromide",
+    "answer": "ANSWER: W) BROMINE GAS",
+  },
+  {
+    "question":"BIOLOGY Multiple Choice In which of the following organ systems of the human body do chief cells primarily function: \n W) excretory \n X) digestive \n Y) nervous \n Z) reproductive",
+    "answer": "ANSWER: X) DIGESTIVE",
+  },
+  { "question": "BIOLOGY Short Answer What section of the small intestine is the first to receive gastric contents?",
+    "answer": "ANSWER: DUODENUM",
+  },
+  { "question": "MATH Short Answer Solve the following equation for x over the integers: x2 = 3x", 
+    "answer": "ANSWER: 0; 3",
+  },
+  {
+    "question": "MATH Short Answer Giving your answer as a fraction reduced to lowest terms, solve the following equation for x: ",
+    "answer": "ANSWER: ",
+  },
+  {
+    "question": "EARTH SCIENCE Multiple Choice Which of the following is best used to date the age of the Earth to about 4.5 billion years old: \n W) uranium-235 \n X) uranium-238 \n Y) potassium-40 \n Z) carbon-14 \n",
+    "answer": "ANSWER: X) URANIUM-238",
+  },
+  {
+    "question": "EARTH SCIENCE Multiple Choice Which of the following is a ubiquitous trace mineral found in many igneous, metamorphic and clastic sedimentary rocks, and has been used to date Earth＊s oldest rocks at 4-plus billion years: \n  W) titanite \n X) tremolite \n Y) zircon  Z) beryl",
+    "answer": "ANSWER: Y) ZIRCON",
+  },
+  {
+    "question": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true: \n W) only a few harmful algal bloom species actually produce toxins that are poisonous to people \n X) algal blooms occur in marine and freshwater environments \n Y) algal blooms can occur in the open ocean far from any coastal inlets \n Z) pollution is always to blame for harmful algal blooms along coastal waters",
+    "answer": "ANSWER: Z) POLLUTION IS ALWAYS TO BLAME FOR HARMFUL ALGAL BLOOMS ALONG COASTAL WATERS" ,
+  },
+  {
+    "question":"GENERAL SCIENCE Multiple Choice 500 metric gigatons is approximately equal to how many pounds: \n W) 1.1 trillion \n X) 11 trillion \n Y) 110 trillion \n Z) 1,100 trillion",
+    "answer": "ANSWER: Z) 1,100 TRILLION",
+  },
+  {
+    "question": "ASTRONOMY Multiple Choice If a star is seen just above the eastern horizon at sunset, where would it most likely be found just before the following sunrise: \n W) just above the eastern horizon \n X) half-way up in the eastern sky \n Y) low in the western sky \n Z) directly overhead",
+    "answer": "ANSWER: Y) LOW IN THE WESTERN SKY",
+  },
+  {
+    "question": "ASTRONOMY Short Answer What is the MOST common organic molecule in the atmosphere of the planet Uranus?,
+    "answer": "ANSWER: METHANE (ACCEPT: CH4)",
+  },
+  {
+    "question": "PHYSICS Short Answer Radon is primarily produced naturally on Earth most directly from the decay of what element?",
+    "answer": "ANSWER: RADIUM",
+  },
+  {
+    "question": "PHYSICS Short Answer By words or numbers, name all of the following 4 choices that are TRUE for an object moving at a constant speed: 1) it must have a constant velocity  2) it must be constantly moving in the same direction  3) it can be accelerating 4) it must have a constant weight",
+    "answer": "ANSWER: 3) IT CAN BE ACCELERATING",
+  },
+  {
+    "question": "CHEMISTRY Multiple Choice Which of the following are elements in the Periodic Table whose outer shell electrons are on two principal energy levels: \n W) alkali metals \n X) noble gases \n Y) alkaline Earth metals \n Z) transition elements",
+    "answer": "ANSWER: Z) TRANSITION ELEMENTS",
+  },
+  {
+    "question": "CHEMISTRY Short Answer According to standard chemical nomenclature and indicating the proper charge, what is the formula for potassium perchlorate?",
+    "answer": " ANSWER: KClO4",
+  },
+  {
+    "question": "BIOLOGY Short Answer What specific type of microscopy passes a beam of electrons through an ultra-thin specimen that is usually stained with an electron opaque substance, producing an image which can be captured by a charged coupled device?",
+    "answer": "ANSWER: TRANSMISSION ELECTRON MICROSCOPY (ACCEPT: TEM) (DO NOT ACCEPT: SCANNING ELECTRON MICROSCOPY OR SEM)",
+  },
+  {
+     "question": "BIOLOGY Short Answer Order the following 4 objects found in the human body from the SMALLEST to the LARGEST: mitochondrion; ribosome; erythrocyte; average monocyte",
+     "answer": "ANSWER: RIBOSOME; MITOCHONDRION; ERYTHROCYTE; AVERAGE MONOCYTE",
   },
   { 
-    "question": "PHYSICS Short Answer \n Name all of the following 4 choices that would typically be considered \n to supply electromotive force: \n transformers; \n generators; \n batteries; \n conductors",
-    "answer": "ANSWER: TRANSFORMERS; GENERATORS; BATTERIES (ACCEPT: ALL BUT CONDUCTORS)",
-    "c": 0
+      "question": "GENERAL SCIENCE Multiple Choice Pyrex glass contains many of the same components as soda lime glass but in addition contains at least 5%: W) boric acid \n X) pure silica \n Y) clay \n Z) dyes",
+      "answer": "ANSWER: W) BORIC ACID",
+  }, 
+  {
+      "question": "GENERAL SCIENCE Multiple Choice Which of the following BEST describes the function of boric acid in the manufacture of Pyrex or borosilicate glass: \n W) makes the glass more scratch-resistant \n X) makes the glass more brittle \n Y) reduces the linear coefficient of expansion of the glass \n Z) reduces the effect of detrimental ultraviolet light exposure",
+      "answer": " ANSWER: Y) REDUCES THE LINEAR COEFFICIENT OF EXPANSION OF THE GLASS",
   },
   { 
-    "question": "MATH Short Answer \n Simplify the following without the use of negative exponents: \n negative 24 time \n x to the 3 power time \n y to the 5 power \n over whole \n 10 time \n y to the 6 power time\n z squared.",
-
-    "answer": " ANSWER: negative 12 x to the 3 power over 5 y z squared",
-    "c":  1
+      "question": "EARTH SCIENCE Multiple Choice Which of the following are intrusive masses of igneous rock that extend downward to unknown depths and do not show signs of a definite floor: \n W) laccolith \n X) batholith \n Y) sill \n Z) volcanic neck",
+      "answer": "ANSWER: X) BATHOLITH",
+  },
+  {
+      "question": "EARTH SCIENCE Multiple Choice Which of the following is NOT a common mineral in igneous rock but rather an accessory that typically occurs in small amounts: \n W) quartz \n X) muscovite \n Y) plagioclase Z) orthoclase",
+      "answer": "ANSWER: X) MUSCOVITE",
+  },
+  {   
+       "question": "MATH Short Answer Simplify the following rational expression:",
+       "answer": "ANSWER: CANNOT BE FURTHER SIMPLIFIED (ACCEPT:):",
+  },
+  {
+      "question": "MATH Short Answer Factor the following expression completely: 12x2 + 24x 每 36",
+      "answer": "ANSWER: 12(x + 3)(x 每 1) (ACCEPT: 12(x 每 1)(x + 3))",
+  },
+  {   
+      "question": "ASTRONOMY Short Answer To the first decimal place, how many astronomical units is the average radius of the Earth＊s orbit around the Sun?",
+      "answer": "ANSWER: 1.0",
+  },
+  {
+      "question": "ASTRONOMY Short Answer How many degrees above the celestial equator is the north celestial pole?",
+      "answer": "ANSWER: 90",
+  },
+  {
+      "question": "PHYSICS Short Answer What is the electric charge and mass of the carrier particle for the electromagnetic force?"
+      "answer": "ANSWER: BOTH ARE ZERO",
+  },
+  {
+      "question": "PHYSICS Short Answer If the intensity of a sound is 10,000 times as loud as another sound, by how many decibels do the two sounds differ?",
+      "answer": "ANSWER: 40",
+  },
+  {
+      "question": "CHEMISTRY Multiple Choice Which of the following is NOT true: \n W) hydrogen gas found in nature exists as a monatomic molecule \n X) when 2 oxygen atoms combine to form O2, energy is released \n Y) when chlorine gains 1 electron, it becomes larger \n Z) noble gases tend not to bond because of their stable valence configurations \n",
+      "answer": "ANSWER: W) HYDROGEN GAS FOUND IN NATURE EXISTS AS A MONATOMIC MOLECULE",
   },
   { 
-    "question": "MATH Short Answer\n It takes 20 minutes for Janis to prepare lunch. \n When Kristen helps, it only takes 12 minutes. \n How many minutes would it take Kristen to prepare the same lunch if she worked alone?",
-    "answer": "ANSWER: 30",
-     "c":  1
+      "question": "CHEMISTRY Short Answer Knowing that the chemical name for gypsum is calcium sulfate dihydrate, gypsum is what percent water by weight? Assume the atomic masses of calcium = 40; sulfur = 32 and oxygen = 16.",
+      "answer":"ANSWER: 21",
   },
-  { 
-    "question": "EARTH SCIENCE Multiple Choice \n Which of the following is commonly accepted \n as the engine that most directly drives \n plate tectonic motion:\n W) mantle convection \n X) volcanic off-gassing \n Y) a molten iron core \n Z) gravitational pull of the Moon and Sun",
-    "answer": "ANSWER: W) MANTLE CONVECTION",
-    "c":  3
+  {
+      "quesiton": "BIOLOGY Multiple Choice Which of the following is the term for the transfer of genes by viruses from one prokaryote to another: \n W) transduction \n X) conjugation \n Y) transformation \n Z) relaxation",
+      "answer": "ANSWER: W) TRANSDUCTION",
   },
-  { 
-    "question": "EARTH SCIENCE Multiple Choice \n Although scientists are unable to obtain samples by drilling, \n they believe the predominant mineral in the mantle is: \n W) iron pyrite \n X) potassium feldspar \n Y) quartz \n Z) olivine",
-    "answer": "ANSWER: Z) OLIVINE",
-     "c": 2
+  {
+      "question": "BIOLOGY Short Answer Name all of the following 3 transport systems that directly require energy to operate: active transport; facilitated diffusion; sodium potassium pump",
+      "answer": "ANSWER: ACTIVE TRANSPORT; SODIUM POTASSIUM PUMP(ACCEPT: ALL BUT FACILITATED DIFFUSION)",
   },
-  { 
-    "question": "GENERAL SCIENCE Multiple Choice \n What is the MOST accurate term for predicting values of data \n that are located between known data points on a line graph: \n W) extrapolation \n X) extension \nY) interpolation \n Z) cheating",
-    "answer": "ANSWER: Y) INTERPOLATION",
-     "c": 3
+  {
+      "question": "CHEMISTRY Short Answer What is the general name for a hypothetical gas that obeys Boyles＊s law at all temperatures and pressures?",
+      "answer": "ANSWER: IDEAL GAS (ACCEPT: IDEAL)",
   },
-  { 
-    "question": "GENERAL SCIENCE Short Answer \n Convert \n 0.001 grams per cubic - millimeter \n into kilograms per cubic - meter: ",
-    "answer": "ANSWER: 1,000",
-     "c": 1
+  {   
+      "question": "CHEMISTRY Multiple Choice Which of the following is NOT true of ideal gases: \n W) 2 or more gases form homogeneous mixtures in all proportions \n X) collisions between gas particles are both elastic and inelastic \n Y) they diffuse rapidly \n Z) they assume the shapes of their containers",
+      "answer": "ANSWER: X) COLLISIONS BETWEEN GAS PARTICLES ARE BOTH ELASTIC AND INELASTIC",
   },
-  { 
-    "question": "ASTRONOMY Multiple Choice \n The luminosity of a star is most directly related to the star＊s: \n W) relative magnitude \n X) magnitude \n Y) distance from Earth \n Z) intrinsic brightness",
-    "answer": "ANSWER: Z) INTRINSIC BRIGHTNESS",
-     "c": 2
-  },
-  { 
-    "question": "ASTRONOMY Multiple Choice \n At which of the following locations would - Betelgeuse most likely be found by \n a stargazer at  mid-northern latitudes \n during January at about midnight: \nW) at the beginning of the handle of the big dipper \n X) at the zenith near the star Vega \n Y) about 10 degree north of Orion＊s belt in the southern sky \nZ) in the northern sky just above the star Capella",
-    "answer": "ANSWER: Y) ABOUT 10o NORTH OF ORION＊S BELT IN THE SOUTHERN SKY",
-     "c": 0
-  },
-   { 
-    "question": "CHEMISTRY Multiple Choice \n Ca (O H) 2, Na O H, and Ba (O H) 2, are all: \n W) weak bases \n X) completely ionized in water \n Y) alkali halides \n Z) standard buffers",
-    "answer": "ANSWER: X) COMPLETELY IONIZED IN WATER",
-     "c": 0
-  },
-   { 
-    "question": "CHEMISTRY Multiple Choice Which of the following compounds is most SOLUBLE in water at 10 degree: \n W) K N O 3 \n X) C a S O 4\n Y) B a S O 4 \n Z) Ag Br",
-    "answer": "ANSWER: W) K N O 3",
-     "c": 0
-  },
-   { 
-    "question": " BIOLOGY Multiple Choice \n Which of the following molecules do - methanogens - most often use as their final -  electron acceptor - in their generation of energy: \n W) hydrogen \n X) carbon dioxide \n Y) methane \n Z) oxygen",
-    "answer": "ANSWER: X) CARBON DIOXIDE",
-    "c":  1
-  },
-   { 
-    "question": "BIOLOGY Short Answer \n What is the general biological term for organisms \n that synthesize organic molecules \nfrom inorganic molecules \n using light as an energy source?",
-    "answer": "ANSWER: PHOTOAUTOTROPHS",
-    "c":  0
-  },
-   { 
-    "question": "PHYSICS Multiple Choice \n Which of the following BEST explains \n why gravitational acceleration on Earth \n varies from one place to another:\n W) the Sun＊s gravitational pull varies irregularly \n X) the Earth is not a uniform sphere \n Y) the Moon and the Sun exert a complex combination of gravitational pulls on the Earth \n Z) the changing angular momentum of the Earth varies during its yearly orbit",
-    "answer": "ANSWER: X) THE EARTH IS NOT A UNIFORM SPHERE",
-     "c": 1
-  },
-   { 
-    "question": " PHYSICS Short Answer \n If a wave has a frequency of 500 hertz, what is its period, in seconds?",
-    "answer": "ANSWER: 0.002",
-     "c": 1
-  },
-   { 
-    "question": " MATH Short Answer \n In a circle with diameter A B, \n if the radius is 6 centimeters, \n find the length in centimeters, \n giving your answer in terms of pi, \n of the arc A B:",
-    "answer": "ANSWER: 6 pi",
-     "c": 2
-  },
-  { 
-    "question": " MATH Short Answer \n Find the area, in square centimeters, \n of a rhombus with \n a diagonal of - 6 centimeters \n and  \n a side of - 5 centimeters:",
-    "answer": "ANSWER: 24",
-    "c":  3
-  },
-  { 
-    "question": "EARTH SCIENCE Multiple Choice \n Which of the following is NOT true: \n W) Mount Everest is a volcanic mountain \n X) shield volcanoes have surface slopes of only a few degrees \n Y) the depression on the top of a typical composite volcano is known as a crater \n Z) Mount Kilimanjaro is a stratovolcano",
-    "answer": "ANSWER: W) MOUNT EVEREST IS A VOLCANIC MOUNTAIN",
-     "c": 2
-  },
-  { 
-    "question": "EARTH SCIENCE Multiple Choice \n Which of the following are likely to form \n in the crater of a stratovolcano \n following a catastrophic eruption, \n such as what happened several times \n in Mount Saint Helens: \n W) cinder cones \n  X) lava domes \n Y) flood basalts \n  Z) spatter cones",
-    "answer": "ANSWER: X) LAVA DOMES",
-    "c":  0
-  },
-  { 
-    "question": "GENERAL SCIENCE Multiple Choice \n Biomagnification is MOST likely to result in the concentration \n of toxic hemicals in: \n W) chemoautotrophs \n X) eutrophic lakes \n Y) primary consumers \n Z) primary producers",
-    "answer": "ANSWER: Y) PRIMARY CONSUMERS",
-     "c": 1
-  },
-  { 
-    "question": "GENERAL SCIENCE Short Answer \n HDPE is a tough plastic often used for the manufacture of toys. \n What monomer is the primary repeating unit in this polymer?",
-    "answer": "ANSWER: ETHYLENE (ACCEPT: ETHENE)",
-     "c": 2
-  },
-  { 
-    "question": "ASTRONOMY Short Answer \n The formation of what is referred to as ※metallic hydrogen§ \n on some of the our solar system＊s planets is \n driven by what basic force?",
-    "answer": "ANSWER: GRAVITY",
-    "c":  1
-  },
-  { 
-    "question": "ASTRONOMY Multiple Choice \n Which of the following would typically appear to be \n the farthest away from the ecliptic: \n W) the planet Mars \n X) the constellation Leo \n Y) the Sun \n Z) the constellation Cassiopeia",
-    "answer": "ANSWER: Z) THE CONSTELLATION CASSIOPEIA",
-     "c": 1
-  },
-  { 
-    "question": "CHEMISTRY Multiple Choice \n The electronegativity of oxygen is \n 3.4 \n and the electronegativity of calcium is \n 1.0. \n Which of the following best describes the formation of the calcium oxide:\n W) 2 electrons are transferred from calcium to oxygen \n X) 2 electrons are transferred from oxygen to calcium \n Y) 2 electrons are shared between calcium and oxygen \n Z) 1 electron is shared and another is transferred from calcium to oxygen",
-    "answer": "ANSWER: W) 2 ELECTRONS ARE TRANSFERRED FROM CALCIUM TO OXYGEN",
-    "c":  1
-  },
-  { 
-    "question": "CHEMISTRY Short Answer \n What is the chemical formula for \n the conjugate base of \n H N O 2?",
-    "answer": "ANSWER: N O 2 每 one nagetive charge ",
-     "c": 0
-  },
-  { 
-    "question": "BIOLOGY Short Answer \n By words or numbers, name all of the following 3 functions \n that meiosis accomplishes: \n 1) reducing the copies of alleles \n in the ovum and sperm \n 2) reducing the numbers of chromosomes \n in the ovum and sperm \n 3) increasing genetic diversity \n through chromosomal exchange events",
-    "answer": "ANSWER: ALL",
-    "c":  1
-  },
-  { 
-    "question": "BIOLOGY Short Answer \n Which one of the basic 3 plant cell types \n has irregularly thickened cell walls, retains its cytoplasm, and functions in structural support?",
-    "answer": "ANSWER: COLLENCHYMA",
-     "c": 0
-  },
-  { 
-    "question": "PHYSICS Multiple Choice \n Which of the following is the part of an electric motor that functions as an electromagnet: \n W) ballast \n X) relay \n Y) armature \n Z) brushes",
-    "answer": "ANSWER: Y) ARMATURE",
-     "c": 0
-  },
-  { 
-    "question": "PHYSICS Short Answer \n Using -g rounded to the first decimal place, \n how much does an \n 80-kilogram person weigh on Earth, \n giving your answer in proper SI units?",
-    "answer": "ANSWER: 784 NEWTONS (must give units)",
-    "c":  1
-  },
-  { 
-    "question": "MATH Short Answer \n  A jar of 100 marbles contains only 2 colors of marbles, \n red and blue. \n If there are \n 13 red marbles \n  for \n every - 12 blue marbles,\n how many blue marbles are in the jar?",
-    "answer": "ANSWER: 48",
-    "c":  2
-
-  },
-  { 
-    "question": "MATH Short Answer \n   Solve the following inequality for x: \n the absolute value of, 3 minus 2x, close absolute value, \nis less than or equal to 7",
-    "answer": "ANSWER:  - 2 <= x <= 5 ",
-    "c":  3
-  },
-  { 
-    "question": "EARTH SCIENCE Multiple Choice \n Which of the following is igneous and pyroclastic in nature, and is of variable composition: \n W) pumice \n X) obsidian \n Y) gabbro \n Z) tuff",
-    "answer": "ANSWER: Z) TUFF",
-    "c":  0
-  },
-  { 
-    "question": "EARTH SCIENCE Multiple Choice Which of the following are clastic in origin: \n W) chalk \n X) coal \n Y) gypsum \n Z) sandstone",
-    "answer": "ANSWER: Z) SANDSTONE",
-     "c": 0
-  },
-  { 
-    "question": "GENERAL SCIENCE Multiple Choice \n Which of the following is an all but \n obsolete battery technology  \n stopped by government regulations in this country \n because of toxicity issues: \n W) nickel-cadmium cells \n X) mercury-oxide cells \n Y) zinc-air cells \n Z) aluminum-air cells",
-    "answer": "ANSWER: W) MERCURY-OXIDE CELLS",
-    "c":  0
-  },
-  { 
-    "question": "GENERAL SCIENCE Multiple Choice \n Which of the following best explains \n why carbon monoxide is very harmful to animals: \n W) it binds very strongly to hemoglobin \n X) it is an irritant to the alveolar lining \n Y) it is a highly potent neurotoxin \nZ) it causes a severe allergic reaction",
-    "answer": "ANSWER: W) IT BINDS VERY STRONGLY TO HEMOGLOBIN",
-    "c":  1
-  },
-  { 
-    "question": "ASTRONOMY Short Answer \n What terrestrial planet has the most elliptical orbit?",
-    "answer": "ANSWER: MERCURY",
-    "c":  0
-  },
-  { 
-    "question": "ASTRONOMY Short Answer \n Although you might expect this planet to be visible to the unaided eye \n because of its maximum apparent magnitude value of about +5.8, \n what planet is unlikely to be seen by most stargazers \n since it requires nearly ideal viewing conditions?",
-    "answer": "ANSWER: URANUS",
-     "c": 0
-  },
-  { 
-    "question": "CHEMISTRY Multiple Choice \n Which of the following ions does NOT have a - noble - gas - electron configuration in - ionic compounds: \n W) Ca 2+ \n X) F one negative charge \n Y) A l 3+ \n Z) Na one negative charge",
-    "answer": "ANSWER: Z) Na每",
-    "c":  2
-  },
-  { 
-    "question": "CHEMISTRY Multiple Choice \n Charles law is particularly useful in explaining which of the following: \n W) dry air is more dense than humid air \n X) C O 2 escapes from a bottle of soda when opened \n Y) the change in enthalpy when nitrogen and oxygen react to form nitrogen dioxide \n Z) a hot-air balloon rises when the air in the balloon is heated",
-    "answer": "ANSWER: Z) A HOT-AIR BALLOON RISES WHEN THE AIR IN THE BALLOON IS HEATED",
-    "c":  2
-  },
-  { 
-    "question": "BIOLOGY Short Answer \n What are the common names for the 2 functional groups \n that combine to form a peptide bond?",
-    "answer": "ANSWER: AMINO; CARBOXYL (ACCEPT: AMINE AND CARBOXYLIC ACID)",
-    "c":  1
-  },
-  { 
-    "question": "BIOLOGY Short Answer \n What 2 ions are most directly involved with the conduction of a nerve cell message down an axon?",
-    "answer": "ANSWER: SODIUM AND POTASSIUM (ACCEPT: Na+ AND K+)",
-    "c":  1
-  },
-  { 
-    "question": "PHYSICS Multiple Choice  \n A boat＊s velocity has a \n northward velocity component of \n 15 kilometers per hour \n and an \n eastward component of \n 10 kilometers per hour. \n  Which of the following BEST represents the direction of the boat＊s motion: \n W) 35 kilometers per hour \n northeast \n X) 35 kilometers per hour \n southwest \n Y) 18 kilometers per hour \n northeast \n Z) 12 kilometers per hour northeast",
-    "answer": "ANSWER: Y) 18 KILOMETERS PER HOUR NORTHEAST",
-    "c":  1
-  },
-  { 
-    "question": "PHYSICS Short Answer \n What are the frequencies of the first and second overtones, respectively, for a string vibrating at a fundamental frequency of 440 hertz?",
-    "answer": "ANSWER: FIRST = 880; SECOND = 1320",
-    "c":  1
-  },
-  
-  { 
-    "question": "Math Short Answer \n Assuming that the natural log of 5 \n=  \n 1.6, find, \n to the first decimal place, the natural log of 5 to the power 1 thirds. ",
-    "answer": "ANSWER: 0.5",
-    "c":1
-  },
-  { 
-    "question": "MATH Short Answer \n Factor the following expression completely: \n 100 x squared \n minus \n 25 y squared",
-    "answer": "ANSWER: 25(2x + y)(2x - y)",
-     "c": 1
-  }
 ]
