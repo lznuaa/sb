@@ -100,253 +100,253 @@
     "c":9
   },
   {
-		"question":"BIOLOGY Short Answer \n If one end of a single polypeptide chain has an amino group exposed, what functional group is typically exposed at the opposite end? ",
-		"answer":"ANSWER: CARBOXYL §,
+		"question":" 1) BIOLOGY Short Answer \n If one end of a single polypeptide chain has an amino group exposed, what functional group is typically exposed at the opposite end? ",
+		"answer":"ANSWER: CARBOXYL ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n What is the most common name of the protein that synthesizes DNA? ",
-		"answer":"ANSWER: DNA POLYMERASE (ACCEPT: POLYMERASE) §,
+		"question":" 1) BIOLOGY Short Answer \n What is the most common name of the protein that synthesizes DNA? ",
+		"answer":"ANSWER: DNA POLYMERASE (ACCEPT: POLYMERASE) ",
 		"c":9
 	},
 	{
-		"question":"CHEMISTRY Multiple Choice \n Which of the following compounds is used as a fuel additive in what is commonly known as ※dry-gas§ by solubilizing water to reduce its contamination in gasoline: \n W) isooctane \n X) glycerol \n Y) MTBE \n Z) isopropyl alcohol ",
-		"answer":"ANSWER: Z) ISOPROPYL ALCOHOL §,
+		"question":" 2) CHEMISTRY Multiple Choice \n Which of the following compounds is used as a fuel additive in what is commonly known as ※dry-gas§ by solubilizing water to reduce its contamination in gasoline: \n W) isooctane \n X) glycerol \n Y) MTBE \n Z) isopropyl alcohol ",
+		"answer":"ANSWER: Z) ISOPROPYL ALCOHOL ",
 		"c":9
 	},
 	{
-		"question":"CHEMISTRY Multiple Choice \n The molar heat of vaporization for water at its boiling point and in kilojoules per mole is: \n W) 6.01 \n X) 40.7 \n Y) 540 \n Z) 2,260 ",
-		"answer":"ANSWER: X) 40.7  §,
+		"question":" 2) CHEMISTRY Multiple Choice \n The molar heat of vaporization for water at its boiling point and in kilojoules per mole is: \n W) 6.01 \n X) 40.7 \n Y) 540 \n Z) 2,260 ",
+		"answer":"ANSWER: X) 40.7  ",
 		"c":9
 	},
 	{
-		"question":"PHYSICS Multiple Choice \n Consider an electric charge moving through a magnetic field. A force acts on the charge perpendicular to the direction of the charge＊s motion and direction of the magnetic field. Which of the following is the MOST common name for this force: \n W) B field \n X) Lorentz force \n Y) electrodynamic force \n Z) Faraday force ",
-		"answer":"ANSWER: X) LORENTZ FORCE §,
+		"question":" 3) PHYSICS Multiple Choice \n Consider an electric charge moving through a magnetic field. A force acts on the charge perpendicular to the direction of the charge＊s motion and direction of the magnetic field. Which of the following is the MOST common name for this force: \n W) B field \n X) Lorentz force \n Y) electrodynamic force \n Z) Faraday force ",
+		"answer":"ANSWER: X) LORENTZ FORCE ",
 		"c":9
 	},
 	{
-		"question":"PHYSICS Multiple Choice \n Which of the following BEST describes the Lorentz Contraction: \n W) reduction in the mass of a body as it approaches the speed of light \n X) reduction in the length of a body along the direction of motion as it approaches the speed of light \n Y) loss of kinetic energy when any object slows \n Z) loss of potential energy when any body emits electromagnetic radiation ",
-		"answer":"ANSWER: X) REDUCTION IN THE LENGTH OF A BODY ALONG THE DIRECTION OF MOTION AS IT APPROACHES THE SPEED OF LIGHT §,
+		"question":" 3) PHYSICS Multiple Choice \n Which of the following BEST describes the Lorentz Contraction: \n W) reduction in the mass of a body as it approaches the speed of light \n X) reduction in the length of a body along the direction of motion as it approaches the speed of light \n Y) loss of kinetic energy when any object slows \n Z) loss of potential energy when any body emits electromagnetic radiation ",
+		"answer":"ANSWER: X) REDUCTION IN THE LENGTH OF A BODY ALONG THE DIRECTION OF MOTION AS IT APPROACHES THE SPEED OF LIGHT ",
 		"c":9
 	},
 	{
-		"question":"MATH Short Answer \n What is the determinant of a 2-by-2 square matrix whose rows are 4, 2 and 每3, 每4? ",
-		"answer":"ANSWER: 每10 (Solution: D = ad 每 bc = 4(-4) 每 (-3)(2) = -10) §,
+		"question":" 4) MATH Short Answer \n What is the determinant of a 2-by-2 square matrix whose rows are 4, 2 and 每3, 每4? ",
+		"answer":"ANSWER: 每10 (Solution: D = ad 每 bc = 4(-4) 每 (-3)(2) = -10) ",
 		"c":9
 	},
 	{
-		"question":"MATH Short Answer \n Solve the following equation for x: 每2|3 + (2\n X)| = 每10 (read as: negative 2 times the absolute value of 3 plus, open parenthesis, x divided by 2, close parenthesis, close absolute value, equals negative 10) ",
-		"answer":"ANSWER: 4 AND 每16  §,
+		"question":" 4) MATH Short Answer \n Solve the following equation for x: 每2|3 + (2\n X)| = 每10 (read as: negative 2 times the absolute value of 3 plus, open parenthesis, x divided by 2, close parenthesis, close absolute value, equals negative 10) ",
+		"answer":"ANSWER: 4 AND 每16  ",
 		"c":9
 	},
 	{
-		"question":"EARTH SCIENCE Short Answer \n What is the most common name for the temperature-slope or depth interval over which temperature changes with depth in a lake? ",
-		"answer":"ANSWER: THERMOCLINE §,
+		"question":" 5) EARTH SCIENCE Short Answer \n What is the most common name for the temperature-slope or depth interval over which temperature changes with depth in a lake? ",
+		"answer":"ANSWER: THERMOCLINE ",
 		"c":9
 	},
 	{
-		"question":"EARTH SCIENCE Multiple Choice \n Trilobites are index fossils that lived: \n W) in warm, ocean waters \n X) during the Achaean geological time \n Y) in desert environments \n Z) in lakes, rivers and streams ",
-		"answer":"ANSWER: W) IN WARM, OCEAN WATERS §,
+		"question":" 5) EARTH SCIENCE Multiple Choice \n Trilobites are index fossils that lived: \n W) in warm, ocean waters \n X) during the Achaean geological time \n Y) in desert environments \n Z) in lakes, rivers and streams ",
+		"answer":"ANSWER: W) IN WARM, OCEAN WATERS ",
 		"c":9
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n The Chesapeake Bay Foundation has enlisted the help of volunteers to raise oysters within cages tied to docks just below the water＊s surface. Which of the following is the BEST reason why these amateur conservationists will not be tempted to eat their oysters: \n W) they are genetically engineered and their impact on human heath has not been assessed \n X) they were irradiated prior to seeding to ensure they were disease-free \n Y) there is a water pollution advisory against eating oysters grown within most of the watershed \n Z) some are equipped with a radio transmitter to allow biologists to easily measure population changes ",
-		"answer":"ANSWER: Y) THERE IS A WATER POLLUTION ADVISORY AGAINST EATING OYSTERS GROWN WITHIN MOST OF THE WATERSHED §,
+		"question":" 6) GENERAL SCIENCE Multiple Choice \n The Chesapeake Bay Foundation has enlisted the help of volunteers to raise oysters within cages tied to docks just below the water＊s surface. Which of the following is the BEST reason why these amateur conservationists will not be tempted to eat their oysters: \n W) they are genetically engineered and their impact on human heath has not been assessed \n X) they were irradiated prior to seeding to ensure they were disease-free \n Y) there is a water pollution advisory against eating oysters grown within most of the watershed \n Z) some are equipped with a radio transmitter to allow biologists to easily measure population changes ",
+		"answer":"ANSWER: Y) THERE IS A WATER POLLUTION ADVISORY AGAINST EATING OYSTERS GROWN WITHIN MOST OF THE WATERSHED ",
 		"c":9
 	},
 	{
-		"question":"GENERAL SCIENCE Short Answer \n If one of Earth＊s tectonic plates moves at a rate of about 10 centimeters per year, how many kilometers will it move in 100 million years? ",
-		"answer":"ANSWER: 10,000 (Solution: 10 cm/yr = 1 ℅ 10-4 Km/yr (100,000,000 yr) = 10,000 Km)  §,
+		"question":" 6) GENERAL SCIENCE Short Answer \n If one of Earth＊s tectonic plates moves at a rate of about 10 centimeters per year, how many kilometers will it move in 100 million years? ",
+		"answer":"ANSWER: 10,000 (Solution: 10 cm/yr = 1 ℅ 10-4 Km/yr (100,000,000 yr) = 10,000 Km)  ",
 		"c":9
 	},
 	{
-		"question":"ASTRONOMY Short Answer \n From data primarily on the motions of what planet did Kepler propose that planets follow elliptical orbits? ",
-		"answer":"ANSWER: MARS §,
+		"question":" 7) ASTRONOMY Short Answer \n From data primarily on the motions of what planet did Kepler propose that planets follow elliptical orbits? ",
+		"answer":"ANSWER: MARS ",
 		"c":9
 	},
 	{
-		"question":"ASTRONOMY Short Answer \n What object in the night sky can reach a maximum apparent magnitude of negative 12.6? ",
-		"answer":"ANSWER: MOON (ACCEPT: FULL MOON) §,
+		"question":" 7) ASTRONOMY Short Answer \n What object in the night sky can reach a maximum apparent magnitude of negative 12.6? ",
+		"answer":"ANSWER: MOON (ACCEPT: FULL MOON) ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n What is the main respiratory pigment of skeletal muscle cells? ",
-		"answer":"ANSWER: MYOGLOBIN §,
+		"question":" 8) BIOLOGY Short Answer \n What is the main respiratory pigment of skeletal muscle cells? ",
+		"answer":"ANSWER: MYOGLOBIN ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n Choosing from primary through quaternary, what level of protein structure is conferred by a beta pleated sheet? ",
-		"answer":"ANSWER: SECONDARY  §,
+		"question":" 8) BIOLOGY Short Answer \n Choosing from primary through quaternary, what level of protein structure is conferred by a beta pleated sheet? ",
+		"answer":"ANSWER: SECONDARY  ",
 		"c":9
 	},
 	{
-		"question":"CHEMISTRY Multiple Choice \n An increase in which of the following conditions would NOT lead to an increase in pressure of a gas in a piston: \n W) increased temperature \n X) increased number of gas molecules \n Y) increased average kinetic energy of gas particles \n Z) increased volume ",
-		"answer":"ANSWER: Z) INCREASED VOLUME §,
+		"question":" 9) CHEMISTRY Multiple Choice \n An increase in which of the following conditions would NOT lead to an increase in pressure of a gas in a piston: \n W) increased temperature \n X) increased number of gas molecules \n Y) increased average kinetic energy of gas particles \n Z) increased volume ",
+		"answer":"ANSWER: Z) INCREASED VOLUME ",
 		"c":9
 	},
 	{
-		"question":"CHEMISTRY Short Answer \n To the nearest whole number, how many grams of Na2SO4, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution? ",
-		"answer":"ANSWER: 7 (Solution: (0.5L)(0.1 mol/L) = 0.05 mol (142 g/mol) = 7.1 g) §,
+		"question":" 9) CHEMISTRY Short Answer \n To the nearest whole number, how many grams of Na2SO4, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution? ",
+		"answer":"ANSWER: 7 (Solution: (0.5L)(0.1 mol/L) = 0.05 mol (142 g/mol) = 7.1 g) ",
 		"c":9
 	},
 	{
-		"question":"PHYSICS Multiple Choice \n Which of the following best describes the concept upon which Kirchhoff＊s current law or first law is based: \n W) charges come in unit dimensions \n X) all charges flow from the negative to the positive \n Y) charge can neither be created nor destroyed \n Z) what goes up must come down ",
-		"answer":"ANSWER: Y) CHARGE CAN NEITHER BE CREATED NOR DESTROYED §,
+		"question":" 10) PHYSICS Multiple Choice \n Which of the following best describes the concept upon which Kirchhoff＊s current law or first law is based: \n W) charges come in unit dimensions \n X) all charges flow from the negative to the positive \n Y) charge can neither be created nor destroyed \n Z) what goes up must come down ",
+		"answer":"ANSWER: Y) CHARGE CAN NEITHER BE CREATED NOR DESTROYED ",
 		"c":9
 	},
 	{
-		"question":"PHYSICS Short Answer \n Give by name or number all of the following 4 choices that would be considered units of electrical power: 1) ampere volt; 2) joules per second; 3) watts; 4) coulombs ",
-		"answer":"ANSWER: 1; 2; 3  §,
+		"question":" 10) PHYSICS Short Answer \n Give by name or number all of the following 4 choices that would be considered units of electrical power: 1) ampere volt; 2) joules per second; 3) watts; 4) coulombs ",
+		"answer":"ANSWER: 1; 2; 3  ",
 		"c":9
 	},
 	{
-		"question":"MATH Short Answer \n Giving your answer as up, down, left, or right, the graph of the equation x = 5y 每 8y2 每 1 opens in what direction? ",
-		"answer":"ANSWER: LEFT §,
+		"question":" 11) MATH Short Answer \n Giving your answer as up, down, left, or right, the graph of the equation x = 5y 每 8y2 每 1 opens in what direction? ",
+		"answer":"ANSWER: LEFT ",
 		"c":9
 	},
 	{
-		"question":"MATH Short Answer \n If $10,000 is placed in a savings account that pays 5% interest compounded annually, what is the total amount of money in the account at the end of 2 years, to the nearest dollar? ",
-		"answer":"ANSWER: $11,025 (Solution: A = P[1 + (r/n)]nt; = $10,000[1 + (0.05/1)](1x2) = $11,025) §,
+		"question":" 11) MATH Short Answer \n If $10,000 is placed in a savings account that pays 5% interest compounded annually, what is the total amount of money in the account at the end of 2 years, to the nearest dollar? ",
+		"answer":"ANSWER: $11,025 (Solution: A = P[1 + (r/n)]nt; = $10,000[1 + (0.05/1)](1x2) = $11,025) ",
 		"c":9
 	},
 	{
-		"question":"EARTH SCIENCE Multiple Choice \n Which of the following atmospheric gases is created naturally by the action of sunlight on molecular oxygen: \n W) ozone \n X) carbon monoxide \n Y) nitrous oxide \n Z) methane ",
-		"answer":"ANSWER: W) OZONE §,
+		"question":" 12) EARTH SCIENCE Multiple Choice \n Which of the following atmospheric gases is created naturally by the action of sunlight on molecular oxygen: \n W) ozone \n X) carbon monoxide \n Y) nitrous oxide \n Z) methane ",
+		"answer":"ANSWER: W) OZONE ",
 		"c":9
 	},
 	{
-		"question":"EARTH SCIENCE Short Answer \n On a weather map, what type of frontal boundary is represented by alternating blue and red lines with blue triangles pointing toward the warmer air and red semicircles pointing toward the colder air? ",
-		"answer":"ANSWER: STATIONARY (ACCEPT: STATIONARY FRONTAL BOUNDARY or STATIONARY FRONT)  §,
+		"question":" 12) EARTH SCIENCE Short Answer \n On a weather map, what type of frontal boundary is represented by alternating blue and red lines with blue triangles pointing toward the warmer air and red semicircles pointing toward the colder air? ",
+		"answer":"ANSWER: STATIONARY (ACCEPT: STATIONARY FRONTAL BOUNDARY or STATIONARY FRONT)  ",
 		"c":9
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n Geothermal power plants use which of the following to generate electricity: \n W) coal \n X) steam \n Y) sunlight \n Z) pressurized water ",
-		"answer":"ANSWER: X) STEAM §,
+		"question":" 13) GENERAL SCIENCE Multiple Choice \n Geothermal power plants use which of the following to generate electricity: \n W) coal \n X) steam \n Y) sunlight \n Z) pressurized water ",
+		"answer":"ANSWER: X) STEAM ",
 		"c":9
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n Diatoms are: \n W) bacteria \n X) twinned crystals \n Y) seaweed \n Z) algae ",
-		"answer":"ANSWER: Z) ALGAE §,
+		"question":" 13) GENERAL SCIENCE Multiple Choice \n Diatoms are: \n W) bacteria \n X) twinned crystals \n Y) seaweed \n Z) algae ",
+		"answer":"ANSWER: Z) ALGAE ",
 		"c":9
 	},
 	{
-		"question":"ASTRONOMY Multiple Choice \n Which of the following statements is LEAST accurate: \n W) solar eclipses are less common than lunar eclipses \n X) stars that begin their lives with greater mass have longer life-spans \n Y) stars in the same constellation are not necessarily at the same distance from Earth \n Z) M-31 is a galaxy ",
-		"answer":"ANSWER: X) STARS THAT BEGIN THEIR LIVES WITH GREATER MASS HAVE LONGER LIFE-SPANS §,
+		"question":" 14) ASTRONOMY Multiple Choice \n Which of the following statements is LEAST accurate: \n W) solar eclipses are less common than lunar eclipses \n X) stars that begin their lives with greater mass have longer life-spans \n Y) stars in the same constellation are not necessarily at the same distance from Earth \n Z) M-31 is a galaxy ",
+		"answer":"ANSWER: X) STARS THAT BEGIN THEIR LIVES WITH GREATER MASS HAVE LONGER LIFE-SPANS ",
 		"c":9
 	},
 	{
-		"question":"ASTRONOMY Short Answer \n In what constellation is the brightest-appearing star in the night sky? ",
-		"answer":"ANSWER: CANIS MAJOR (Solution: Alpha Canis Majoris, also called Sirius, is in Canis Major and is the brightest star in the sk\n Y)  §,
+		"question":" 14) ASTRONOMY Short Answer \n In what constellation is the brightest-appearing star in the night sky? ",
+		"answer":"ANSWER: CANIS MAJOR (Solution: Alpha Canis Majoris, also called Sirius, is in Canis Major and is the brightest star in the sk\n Y)  ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n What specific biological process is believed to have produced most of the diatomic oxygen in the Earth＊s atmosphere? ",
-		"answer":"ANSWER: PHOTOSYNTHESIS §,
+		"question":" 15) BIOLOGY Short Answer \n What specific biological process is believed to have produced most of the diatomic oxygen in the Earth＊s atmosphere? ",
+		"answer":"ANSWER: PHOTOSYNTHESIS ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n In photosynthesis II (read as: two), what is light energy most notably used to initially accomplish? ",
-		"answer":"ANSWER: SPLITTING OF WATER §,
+		"question":" 15) BIOLOGY Short Answer \n In photosynthesis II (read as: two), what is light energy most notably used to initially accomplish? ",
+		"answer":"ANSWER: SPLITTING OF WATER ",
 		"c":9
 	},
 	{
-		"question":"CHEMISTRY Short Answer \n According to VSEPR bonding theory, what type of geometry does a molecule have when the central atom is surrounded by 4 bonded groups, such as in methane? ",
-		"answer":"ANSWER: TETRAHEDRAL §,
+		"question":" 16) CHEMISTRY Short Answer \n According to VSEPR bonding theory, what type of geometry does a molecule have when the central atom is surrounded by 4 bonded groups, such as in methane? ",
+		"answer":"ANSWER: TETRAHEDRAL ",
 		"c":9
 	},
 	{
-		"question":"CHEMISTRY Multiple Choice \n Which of the following is considered a weak acid: \n W) HCO2H \n X) HClO4 \n Y) HNO3 \n Z) HBr ",
-		"answer":"ANSWER: W) HCO2H  §,
+		"question":" 16) CHEMISTRY Multiple Choice \n Which of the following is considered a weak acid: \n W) HCO2H \n X) HClO4 \n Y) HNO3 \n Z) HBr ",
+		"answer":"ANSWER: W) HCO2H  ",
 		"c":9
 	},
 	{
-		"question":"PHYSICS Short Answer \n What is the MOST common name for the electrical device often made of two parallel conducting plates separated by a paper insulator all rolled into a cylinder to function in storing electrical energy? ",
-		"answer":"ANSWER: CAPACITOR §,
+		"question":" 17) PHYSICS Short Answer \n What is the MOST common name for the electrical device often made of two parallel conducting plates separated by a paper insulator all rolled into a cylinder to function in storing electrical energy? ",
+		"answer":"ANSWER: CAPACITOR ",
 		"c":9
 	},
 	{
-		"question":"PHYSICS Short Answer \n What is the SI unit of capacitance equal to one coulomb per volt? ",
-		"answer":"ANSWER: FARAD §,
+		"question":" 17) PHYSICS Short Answer \n What is the SI unit of capacitance equal to one coulomb per volt? ",
+		"answer":"ANSWER: FARAD ",
 		"c":9
 	},
 	{
-		"question":"MATH Short Answer \n In what quadrant does 牟 (read as: theta) terminate if sine 牟 is positive and secant 牟 is negative? ",
-		"answer":"ANSWER: 2nd (ACCEPT: 2) §,
+		"question":" 18) MATH Short Answer \n In what quadrant does 牟 (read as: theta) terminate if sine 牟 is positive and secant 牟 is negative? ",
+		"answer":"ANSWER: 2nd (ACCEPT: 2) ",
 		"c":9
 	},
 	{
-		"question":"MATH Short Answer \n Solve the following equation for all real values of x: 0141812=??xx ",
-		"answer":"ANSWER: 4 OR 每2  §,
+		"question":" 18) MATH Short Answer \n Solve the following equation for all real values of x: 0141812=??xx ",
+		"answer":"ANSWER: 4 OR 每2  ",
 		"c":9
 	},
 	{
-		"question":"EARTH SCIENCE Multiple Choice \n Which of the following rocks is MOST porous: \n W) marble \n X) granite \n Y) limestone \n Z) slate ",
-		"answer":"ANSWER: Y) LIMESTONE §,
+		"question":" 19) EARTH SCIENCE Multiple Choice \n Which of the following rocks is MOST porous: \n W) marble \n X) granite \n Y) limestone \n Z) slate ",
+		"answer":"ANSWER: Y) LIMESTONE ",
 		"c":9
 	},
 	{
-		"question":"EARTH SCIENCE Multiple Choice \n If the intent is to neutralize soil acidity, the mixing of which of the following materials in the soil would be the LEAST effective: \n W) ground limestone \n X) ground oyster shells \n Y) pure CaCO3 \n Z) gypsum ",
-		"answer":"ANSWER: Z) GYPSUM (Solution: gypsum is CaCO4) §,
+		"question":" 19) EARTH SCIENCE Multiple Choice \n If the intent is to neutralize soil acidity, the mixing of which of the following materials in the soil would be the LEAST effective: \n W) ground limestone \n X) ground oyster shells \n Y) pure CaCO3 \n Z) gypsum ",
+		"answer":"ANSWER: Z) GYPSUM (Solution: gypsum is CaCO4) ",
 		"c":9
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n Which of the following is used as a white pigment in paint, paper, and plastics: \n W) Teflon \n X) zeolites \n Y) titanium dioxide \n Z) diatomaceous earth ",
-		"answer":"ANSWER: Y) TITANIUM DIOXIDE §,
+		"question":" 20) GENERAL SCIENCE Multiple Choice \n Which of the following is used as a white pigment in paint, paper, and plastics: \n W) Teflon \n X) zeolites \n Y) titanium dioxide \n Z) diatomaceous earth ",
+		"answer":"ANSWER: Y) TITANIUM DIOXIDE ",
 		"c":9
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n Cats have a special layer of tissue behind their retina called the tapetum lucidum that does which of the following: \n W) reflects back to the retina stray photons of light \n X) allows for color vision \n Y) allows only for black, white and grey vision \n Z) serves as a second eyelid to protect the eye ",
-		"answer":"ANSWER: W) REFLECTS BACK TO THE RETINA STRAY PHOTONS OF LIGHT  §,
+		"question":" 20) GENERAL SCIENCE Multiple Choice \n Cats have a special layer of tissue behind their retina called the tapetum lucidum that does which of the following: \n W) reflects back to the retina stray photons of light \n X) allows for color vision \n Y) allows only for black, white and grey vision \n Z) serves as a second eyelid to protect the eye ",
+		"answer":"ANSWER: W) REFLECTS BACK TO THE RETINA STRAY PHOTONS OF LIGHT  ",
 		"c":9
 	},
 	{
-		"question":"ASTRONOMY Short Answer \n What basic force is responsible for forming the liquid-metallic hydrogen layer on the planet Jupiter? ",
-		"answer":"ANSWER: GRAVITY §,
+		"question":" 21) ASTRONOMY Short Answer \n What basic force is responsible for forming the liquid-metallic hydrogen layer on the planet Jupiter? ",
+		"answer":"ANSWER: GRAVITY ",
 		"c":9
 	},
 	{
-		"question":"ASTRONOMY Short Answer \n During what month is the average surface temperature of the Earth typically the highest? ",
-		"answer":"ANSWER: JULY §,
+		"question":" 21) ASTRONOMY Short Answer \n During what month is the average surface temperature of the Earth typically the highest? ",
+		"answer":"ANSWER: JULY ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n In what specific part of the testes does spermatogenesis occur in mammals? ",
-		"answer":"ANSWER: SEMINIFEROUS TUBULES §,
+		"question":" 22) BIOLOGY Short Answer \n In what specific part of the testes does spermatogenesis occur in mammals? ",
+		"answer":"ANSWER: SEMINIFEROUS TUBULES ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n What human gland, which is mostly lymphoid tissue, is critical to the normal development of cell mediated immunity and, if removed after young adulthood, seems to have no ill effects on the immune system? ",
-		"answer":"ANSWER: THYMUS  §,
+		"question":" 22) BIOLOGY Short Answer \n What human gland, which is mostly lymphoid tissue, is critical to the normal development of cell mediated immunity and, if removed after young adulthood, seems to have no ill effects on the immune system? ",
+		"answer":"ANSWER: THYMUS  ",
 		"c":9
 	},
 	{
-		"question":"CHEMISTRY Short Answer \n When a strip of sodium reacts with dilute HCl, what gas is produced? ",
-		"answer":"ANSWER: HYDROGEN §,
+		"question":" 23) CHEMISTRY Short Answer \n When a strip of sodium reacts with dilute HCl, what gas is produced? ",
+		"answer":"ANSWER: HYDROGEN ",
 		"c":9
 	},
 	{
-		"question":"CHEMISTRY Multiple Choice \n The release of hydrogen gas in the above experiment is called: \n W) combustion \n X) effervescence \n Y) diffusion \n Z) ebullition ",
-		"answer":"ANSWER: X) EFFERVESCENCE §,
+		"question":" 23) CHEMISTRY Multiple Choice \n The release of hydrogen gas in the above experiment is called: \n W) combustion \n X) effervescence \n Y) diffusion \n Z) ebullition ",
+		"answer":"ANSWER: X) EFFERVESCENCE ",
 		"c":9
 	},
 	{
-		"question":"PHYSICS Short Answer \n What was the electrolyte used in the first voltaic piles built by Volta? ",
-		"answer":"ANSWER: BRINE (ACCEPT: SALT WATER) §,
+		"question":" 24) PHYSICS Short Answer \n What was the electrolyte used in the first voltaic piles built by Volta? ",
+		"answer":"ANSWER: BRINE (ACCEPT: SALT WATER) ",
 		"c":9
 	},
 	{
-		"question":"PHYSICS Short Answer \n What is the resistance, giving your answer in standard SI units, of an electric device operating on a 9-volt battery that requires 0.05 amps to run? ",
-		"answer":"ANSWER: 180 OHMS (Solution: R = V/I = 9/0.05 = 180 ohms)  §,
+		"question":" 24) PHYSICS Short Answer \n What is the resistance, giving your answer in standard SI units, of an electric device operating on a 9-volt battery that requires 0.05 amps to run? ",
+		"answer":"ANSWER: 180 OHMS (Solution: R = V/I = 9/0.05 = 180 ohms)  ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n What is the most common name for the micro-gametophyte in flowering plants? ",
-		"answer":"ANSWER: POLLEN (ACCEPT: POLLEN GRAINS) §,
+		"question":" 25) BIOLOGY Short Answer \n What is the most common name for the micro-gametophyte in flowering plants? ",
+		"answer":"ANSWER: POLLEN (ACCEPT: POLLEN GRAINS) ",
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n Sieve cells and sieve tube members are types of what specific conductive plant cell type? ",
-		"answer":"ANSWER: PHLOEM§,
+		"question":" 25) BIOLOGY Short Answer \n Sieve cells and sieve tube members are types of what specific conductive plant cell type? ",
+		"answer":"ANSWER: PHLOEM",
 		"c":9
 	}
 ]
