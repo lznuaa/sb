@@ -1,153 +1,153 @@
 [
 	{
-		"question":"CHEMISTRY Multiple Choice \n The reaction Fe3O4 + 4H2  3Fe + 4H2O, is an example of what class of chemical reaction: \n W) decomposition \n X) single replacement \n Y) combustion \n Z) combination ",
+		"question":"CHEMISTRY Multiple Choice \n The reaction F e 3 O4, +, 4H2, yields,\n3 F e, +, 4 H2O, is an example of what class of chemical reaction: \n W) decomposition \n X) single replacement \n Y) combustion \n Z) combination ",
 		"answer":"ANSWER: X) SINGLE REPLACEMENT ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"CHEMISTRY Short Answer \n Find the mass percent composition, rounded to the nearest whole number, for each atom in KClO3. Assume the atomic masses of potassium = 39, chlorine = 35, and oxygen = 16 ",
+		"question":"CHEMISTRY Short Answer \n Find the mass percent composition, rounded to the nearest whole number, for each atom in\n K, Cl, O3. Assume the atomic masses of potassium = 39,\n chlorine = 35,\n  and oxygen = 16 ",
 		"answer":"ANSWER: K = 32%; Cl = 29%; O = 39% (Solution: K = 39g/122g × 100% = 32%; Cl = 35/122 × 100% = 29%; O = 48/122 × 100% = 39%) ",
-		"c":9
+		"c":1
 	},
 	{
 		"question":"BIOLOGY Multiple Choice \n Which of the following is the highest level of structural organization in myoglobin: \n W) primary \n X) secondary \n Y) tertiary \n Z) quaternary ",
 		"answer":"ANSWER: Y) TERTIARY ",
-		"c":9
+		"c":0
 	},
 	{
-		"question":"BIOLOGY Short Answer \n Name all of the following 4 choices that are characteristic of E. coli: gram negative; an enteric organism; non-motile; bacillus ",
+		"question":"BIOLOGY Short Answer \n Name all of the following 4 choices, that are characteristic of E. coli: \ngram negative;\n an enteric organism; \n non-motile; \n bacillus ",
 		"answer":"ANSWER: GRAM NEGATIVE; AN ENTERIC ORGANISM; BACILLUS (ACCEPT: ALL BUT NON-MOTILE)  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"PHYSICS Multiple Choice \n Which of the following colors of light has the greatest angle of refraction in normal glass: \n W) yellow \n X) green \n Y) orange \n Z) blue ",
+		"question":"PHYSICS Multiple Choice \n Which of the following colors of light, has the greatest angle of refraction, in normal glass: \n W) yellow \n X) green \n Y) orange \n Z) blue ",
 		"answer":"ANSWER: Z) BLUE ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"PHYSICS Multiple Choice \n If a beam of white light passes through a prism, which of the following colors color will emerge on the other side at the lowest angle with respect to the incident beam: \n W) orange \n X) indigo \n Y) green \n Z) blue ",
+		"question":"PHYSICS Multiple Choice \n If a beam of white light passes through a prism, which of the following colors color will emerge, on the other side at the lowest angle, with respect to the incident beam: \n W) orange \n X) indigo \n Y) green \n Z) blue ",
 		"answer":"ANSWER: W) ORANGE ",
-		"c":9
+		"c":0
 	},
 	{
-		"question":"MATH Multiple Choice \n Which of the following is NOT true: \n W) all central angles in a regular polygon are equal \n X) irregular polygons are not considered to have centers and have no central angles \n Y) the circumcircle of a regular polygon is the circle that passes through at least one vertex \n Z) all regular polygons are convex ",
+		"question":"MATH Multiple Choice \n Which of the following is NOT true: \n W) all central angles in a regular polygon are equal \n X) irregular polygons are not considered to have centers, and have no central angles \n Y) the circumcircle of a regular polygon, is the circle that passes through at least one vertex \n Z) all regular polygons are convex ",
 		"answer":"ANSWER: Y) THE CIRCUMCIRCLE OF A REGULAR POLYGON IS THE CIRCLE THAT PASSES THROUGH AT LEAST ONE VERTEX ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"MATH Short Answer \n Find the sum of all interior angles, in degrees, in a regular polygon having 100 sides: ",
-		"answer":"ANSWER: 17,640 (Solution: (100 – 2)(180) = 17,640º)  ",
-		"c":9
+		"question":"MATH Short Answer \n Find the sum of all interior angles, in degrees, in a regular polygon having, 100 sides: ",
+		"answer":"ANSWER: 17,640 ",
+		"c":1
 	},
 	{
-		"question":"EARTH SCIENCE Multiple Choice \n Because of Earth’s rotation and shape, ocean currents are intensified along which of the following borders of all oceans: \n W) northern \n X) southern \n Y) eastern \n Z) western ",
+		"question":"EARTH SCIENCE Multiple Choice \n Because of Earth’s rotation and shape, ocean currents are intensified along, which of the following borders of all oceans: \n W) northern \n X) southern \n Y) eastern \n Z) western ",
 		"answer":"ANSWER: Z) WESTERN ",
-		"c":9
+		"c":1
 	},
 	{
 		"question":"EARTH SCIENCE Multiple Choice \n Which of the following is NOT generally characteristic of a passive continental margin: \n W) relatively wide continental shelf \n X) oceanic trench \n Y) terrigenous sediment \n Z) continental rise ",
 		"answer":"ANSWER: X) OCEANIC TRENCH ",
-		"c":9
+		"c":0
 	},
 	{
 		"question":"GENERAL SCIENCE Multiple Choice \n The sea nettle is the Bering Sea’s most common: \n W) jellyfish \n X) crab \n Y) sea urchin \n Z) walleye pollock ",
 		"answer":"ANSWER: W) JELLYFISH ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n 1 cubic foot per second equals approximately how many gallons per minutes: \n W) 256 \n X) 449 \n Y) 646 \n Z) 724 ",
+		"question":"GENERAL SCIENCE Multiple Choice \n 1 cubic foot per second, equals approximately how many gallons per minutes: \n W) 256 \n X) 449 \n Y) 646 \n Z) 724 ",
 		"answer":"ANSWER: X) 449  ",
-		"c":9
+		"c":3
 	},
 	{
 		"question":"ASTRONOMY Short Answer \n Which of the terrestrial planets has the lowest albedo? ",
 		"answer":"ANSWER: MERCURY ",
-		"c":9
+		"c":1
 	},
 	{
 		"question":"ASTRONOMY Short Answer \n Most of the hydrogen that makes up the planet Jupiter is in what phase? ",
 		"answer":"ANSWER: LIQUID ",
-		"c":9
+		"c":1
 	},
 	{
 		"question":"CHEMISTRY Multiple Choice \n Which of the following is the theoretical end of a titration: \n W) end point \n X) indicator point \n Y) equivalence point \n Z) standardization point ",
 		"answer":"ANSWER: Y) EQUIVALENCE POINT (Solution: end point is the observed end of a titration) ",
-		"c":9
+		"c":1
 	},
 	{
 		"question":"CHEMISTRY Short Answer \n In a strong acid-base titration, what is the pH of the solution when the equivalence point is reached? ",
 		"answer":"ANSWER: 7  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"BIOLOGY Short Answer \n What specific class of antibodies is most commonly responsible for degranulation of basophils or mast cells? ",
+		"question":"BIOLOGY Short Answer \n What specific class of antibodies is most commonly responsible for, degranulation of basophils, or mast cells? ",
 		"answer":"ANSWER: IgE (ACCEPT: IMMUNOLGLOBULIN E) ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"BIOLOGY Multiple Choice \n Which of the following is a group of about 20 proteins that aid in the attraction and phagocytosis of microorganisms by macrophages: \n W) alpha interferons \n X) complement system \n Y) TNF \n Z) hemopoietins ",
+		"question":"BIOLOGY Multiple Choice \n Which of the following is a group of about 20 proteins, that aid in the attraction, and phagocytosis of microorganisms by macrophages: \n W) alpha interferons \n X) complement system \n Y) TNF \n Z) hemopoietins ",
 		"answer":"ANSWER: X) COMPLEMENT SYSTEM ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"PHYSICS Short Answer \n What property of a wave is generally said to increase during constructive interference? ",
+		"question":"PHYSICS Short Answer \n What property of a wave is generally said to increase, during constructive interference? ",
 		"answer":"ANSWER: AMPLITUDE ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"PHYSICS Short Answer \n What is the most common name for the Law or principal dictating that the amount of a substance that is released or deposited from an electrode is directly proportional to the amount of electric current passing through the circuit? ",
+		"question":"PHYSICS Short Answer \n What is the most common name for the Law or principal dictating, that the amount of a substance that is released or deposited from an electrode, is directly proportional to the amount of electric current passing through the circuit? ",
 		"answer":"ANSWER: FARADAY’S FIRST LAW OF ELECTROLYSIS (ACCEPT: FARADAY’S FIRST LAW or FARADAY’S LAW OF ELECTROLYSIS)  ",
-		"c":9
+		"c":0
 	},
 	{
 		"question":"MATH Short Answer \n Find 2 mean proportionals between the numbers 3 and 24: ",
 		"answer":"ANSWER: 6 AND 12 (Solution: 3r3 = 24, r = 2) ",
-		"c":9
+		"c":0
 	},
 	{
-		"question":"MATH Short Answer \n Find the numerical value of the geometric mean of the following 4 values: 21; 23; 28; 28 ",
+		"question":"MATH Short Answer \n Find the numerical value of the geometric mean of, the following 4 values:\n 2 to the 1st power, 2 to the 3rd power,  2 to the 8th power, 2 to the 8th power ",
 		"answer":"ANSWER: 32 (DO NOT ACCEPT: 25) (Solution: 1 + 3 + 8 + 8 = 20/4 = 5; 25 = 32) ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"EARTH SCIENCE Multiple Choice \n Many of the driest locales on Earth are situated between which of the following latitudes: \n W) 0º to 15º \n X) 15º to 30º \n Y) 30º to 45º \n Z) 45º to 60º ",
+		"question":"EARTH SCIENCE Multiple Choice \n Many of the driest locales on Earth, are situated between which of the following latitudes: \n W) 0º to 15 º \n X) 15 º to 30 º \n Y) 30 º to 45 º \n Z) 45 º to 60 º ",
 		"answer":"ANSWER: X) 15º to 30º ",
-		"c":9
+		"c":0
 	},
 	{
 		"question":"EARTH SCIENCE Multiple Choice \n Which of the following is NOT true of breccia rock: \n W) it is sedimentary \n X) its color is variable \n Y) its texture consists of rounded pebbles, cobbles and boulders \n Z) fragments may be any type of igneous, metamorphic, or sedimentary rocks ",
 		"answer":"ANSWER: Y) ITS TEXTURE CONSISTS OF ROUNDED PEBBLES, COBBLES AND BOULDERS (Solution: constituent clasts are angular)  ",
-		"c":9
+		"c":0
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n In the northern hemisphere, which of the following degrees latitude would experience a length of day of 6 months: \n W) 0 \n X) 30 \n Y) 60 \n Z) 90 ",
+		"question":"GENERAL SCIENCE Multiple Choice \n In the northern hemisphere, which of the following degrees latitude, would experience a length of day of 6 months: \n W) 0 \n X) 30 \n Y) 60 \n Z) 90 ",
 		"answer":"ANSWER: Z) 90 ",
-		"c":9
+		"c":0
 	},
 	{
 		"question":"GENERAL SCIENCE Multiple Choice \n Which of the following is a substance that is generally considered friable: \n W) concrete \n X) topaz \n Y) quartz \n Z) perlite ",
 		"answer":"ANSWER: Z) PERLITE (Solution: it is easily reduced to smaller pieces with little effort) ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"ASTRONOMY Short Answer \n From what specific celestial body do meteor showers originate? ",
+		"question":"ASTRONOMY Short Answer \n From what specific celestial body, do meteor showers originate? ",
 		"answer":"ANSWER: COMET(S) ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"ASTRONOMY Multiple Choice \n Of which of the following is the Hubble Law most directly a consequence: \n W) Doppler shift \n X) Kirchoff’s second law \n Y) Kepler’s second law \n Z) Drake’s equation ",
+		"question":"ASTRONOMY Multiple Choice \n Of which of the following is, the Hubble Law most directly a consequence: \n W) Doppler shift \n X) Kirchoff’s second law \n Y) Kepler’s second law \n Z) Drake’s equation ",
 		"answer":"ANSWER: W) DOPPLER SHIFT  ",
-		"c":9
+		"c":1
 	},
 	{
 		"question":"CHEMISTRY Multiple Choice \n A sample of gas is heated from 300K to 500K. If the container is sealed and of fixed volume, which of the following will remain constant: \n W) the average kinetic energy of the gas molecules \n X) the average speed of the gas molecules \n Y) the density of the gas \n Z) the pressure of the gas ",
 		"answer":"ANSWER: Y) THE DENSITY OF THE GAS ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"CHEMISTRY Multiple Choice \n Which of the following does NOT have the electron configuration of argon: \n W) O2– \n X) Cl– \n Y) S2– \n Z) K+ ",
-		"answer":"ANSWER: W) O2– (Solution: O2– has configuration of neon) ",
-		"c":9
+		"question":"CHEMISTRY Multiple Choice \n Which of the following does NOT have, the electron configuration of argon: \n W) O, 2 negative charge \n X) Cl, one negative charge \n Y) S, 2 negative charge \n Z) K, one possitive charge ",
+		"answer":"ANSWER: W) O^2- (Solution: O^ 2– has configuration of neon) ",
+		"c":2
 	},
 	{
 		"question":"BIOLOGY Short Answer \n In angiosperm seed development, what fuses with the second sperm nucleus to form the endosperm? ",
@@ -155,98 +155,98 @@
 		"c":9
 	},
 	{
-		"question":"BIOLOGY Short Answer \n In what specific part of a eukaryotic cell will pyruvate be converted into acetyl Co-enzyme A? ",
+		"question":"BIOLOGY Short Answer \n In what specific part of a eukaryotic cell, will pyruvate be converted into , acetyl Co-enzyme A? ",
 		"answer":"ANSWER: MITOCHONDRION (ACCEPT: MITOCHONDRIA)  ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"PHYSICS Multiple Choice \n Which of the following are the most important calibration references that Celsius used to devise his temperature scale: \n W) melting point and boiling point of water \n X) ice-point and freeze-thaw point of water \n Y) specific gravity of water \n Z) boiling point and steam point of water ",
+		"question":"PHYSICS Multiple Choice \n Which of the following are the most important calibration, references that Celsius used to devise his temperature scale: \n W) melting point and boiling point of water \n X) ice-point and freeze-thaw point of water \n Y) specific gravity of water \n Z) boiling point and steam point of water ",
 		"answer":"ANSWER: W) MELTING POINT AND BOILING POINT OF WATER ",
-		"c":9
+		"c":3
 	},
 	{
-		"question":"PHYSICS Multiple Choice \n Which of the following is the MOST reliable measure of the remaining percentage of stored energy in a lead acid battery: \n W) pH of the electrolyte \n X) voltage remaining in the battery as measured on a voltmeter \n Y) amount of oxygen gas released \n Z) specific gravity of the electrolyte ",
+		"question":"PHYSICS Multiple Choice \n Which of the following is the MOST reliable measure of, the remaining percentage of stored energy in a lead acid battery: \n W) pH of the electrolyte \n X) voltage remaining in the battery as measured on a voltmeter \n Y) amount of oxygen gas released \n Z) specific gravity of the electrolyte ",
 		"answer":"ANSWER: Z) SPECIFIC GRAVITY OF THE ELECTROLYTE ",
-		"c":9
+		"c":0
 	},
 	{
-		"question":"MATH Short Answer \n There are 10 people on a bus who, when ranked from youngest to oldest, all differ from those on the bus closest in age to them by the same number of years. If the youngest is 6 and the oldest is 51, what is the common difference in their age? ",
+		"question":"MATH Short Answer \n There are 10 people on a bus who, when ranked from youngest to oldest, all differ from those on the bus closest in age to them, by the same number of years. If the youngest is 6 and the oldest is 51, what is the common difference in their age? ",
 		"answer":"ANSWER: 5 (Solution: 6-11-16-21-26-31-36-41-46-51) ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"MATH Short Answer \n Solve the following equation for all real values of x: (x + 3)2 = 16 ",
+		"question":"MATH Short Answer \n Solve the following equation for all real values of x: squared the value of (x + 3) = 16 ",
 		"answer":"ANSWER: 1 AND –7  ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"EARTH SCIENCE Multiple Choice \n When geologists find pillow basalts in ancient rock sequences, which of the following BEST explains their presence: \n W) the area was once underwater \n X) volcanic bombs and lapilli landed on snow or ice and quickly cooled \n Y) they hardened in mid-air, sometimes forming a tear-drop shape \n Z) nearby volcanoes erupted enormous quantities of ash ",
+		"question":"EARTH SCIENCE Multiple Choice \n When geologists find pillow basalts, in ancient rock sequences, which of the following BEST explains their presence: \n W) the area was once underwater \n X) volcanic bombs and lapilli landed on snow or ice and quickly cooled \n Y) they hardened in mid-air, sometimes forming a tear-drop shape \n Z) nearby volcanoes erupted enormous quantities of ash ",
 		"answer":"ANSWER: W) THE AREA WAS ONCE UNDERWATER ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"EARTH SCIENCE Short Answer \n What is the general name for the myriad of suspended particles or aerosols in the Earth’s atmosphere that allow rain droplets to undergo coalescence? ",
+		"question":"EARTH SCIENCE Short Answer \n What is the general name for, the myriad of suspended particles or aerosols, in the Earth’s atmosphere, that allow rain droplets to undergo coalescence? ",
 		"answer":"ANSWER: CONDENSATION NUCLEI ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n Which of the following is closest to the meaning of the suffix ‘tropic’ (read as: troh-PIK): \n W) hot \n X) wet \n Y) changing \n Z) under ",
+		"question":"GENERAL SCIENCE Multiple Choice \n Which of the following is closest to the meaning of the suffix ‘ troh-PIK: \n W) hot \n X) wet \n Y) changing \n Z) under ",
 		"answer":"ANSWER: Y) CHANGING ",
-		"c":9
+		"c":0
 	},
 	{
-		"question":"GENERAL SCIENCE Multiple Choice \n In which of the following locations has water at its highest temperature ever been recorded in nature: \n W) within gullies on Venus \n X) in very deep ocean hydrothermal vents along the mid-Atlantic ridge \n Y) at the bottom of Yellowstone Lake in Yellowstone National Park \n Z) within volcanic vents high atop Hawaii’s Kilauea volcano ",
+		"question":"GENERAL SCIENCE Multiple Choice \n In which of the following locations, has water at its highest temperature ever been recorded in nature: \n W) within gullies on Venus \n X) in very deep ocean hydrothermal vents along the mid-Atlantic ridge \n Y) at the bottom of Yellowstone Lake in Yellowstone National Park \n Z) within volcanic vents high atop Hawaii’s Kilauea volcano ",
 		"answer":"ANSWER: X) IN VERY DEEP OCEAN HYDROTHERMAL VENTS ALONG THE MID-ATLANTIC RIDGE  ",
-		"c":9
+		"c":0
 	},
 	{
-		"question":"ASTRONOMY Short Answer \n What is the most accurate term astronomers use for the time it takes for a planet to orbit the Sun relative to the stars? ",
+		"question":"ASTRONOMY Short Answer \n What is the most accurate term astronomers, use for the time it takes for a planet to orbit the Sun relative to the stars? ",
 		"answer":"ANSWER: SIDEREAL PERIOD ",
-		"c":9
+		"c":0
 	},
 	{
 		"question":"ASTRONOMY Short Answer \n What terrestrial planet has the longest sidereal period? ",
 		"answer":"ANSWER: MARS ",
-		"c":9
+		"c":0
 	},
 	{
 		"question":"CHEMISTRY Short Answer \n In the electrolysis of a copper chloride solution, what forms at the cathode and anode, respectively? ",
 		"answer":"ANSWER: CATHODE = COPPER (ACCEPT: Cu); ANODE = CHLORINE (ACCEPT: CHLORINE GAS or Cl2) ",
-		"c":9
+		"c":0
 	},
 	{
 		"question":"CHEMISTRY Short Answer \n According to standard chemical nomenclature, what is the formula for ammonium sulfate? ",
 		"answer":"ANSWER: (NH4)2SO4  ",
-		"c":9
+		"c":0
 	},
 	{
-		"question":"BIOLOGY Short Answer \n How many human ova are produced by a full round of meiosis from a single primary oocyte? ",
+		"question":"BIOLOGY Short Answer \n How many human ova are produced, by a full round of meiosis from a single primary oocyte? ",
 		"answer":"ANSWER: 1 (Solution: mammals produce 1 ovum and 3 polar bodies per primary oocyte) ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"BIOLOGY Short Answer \n Name all of the following 4 animals for which L-ascorbate is an essential nutrient: humans; dogs; cats; horses ",
+		"question":"BIOLOGY Short Answer \n Name all of the following 4 animals, for which L-ascorbate is an essential nutrient: \n humans; \n dogs;\n cats;\n horses ",
 		"answer":"ANSWER: HUMANS ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"PHYSICS Short Answer \n In triboelectric charging, when one object loses electrons, the object that accepts the charges acquires the same number of charges that the other object has lost. What law most directly governs this equal exchange? ",
+		"question":"PHYSICS Short Answer \n In triboelectric charging, when one object loses electrons, the object that accepts the charges acquires the same number of charges, that the other object has lost. What law most directly governs this equal exchange? ",
 		"answer":"ANSWER: CONSERVATION OF CHARGE ",
-		"c":9
+		"c":0
 	},
 	{
 		"question":"PHYSICS Short Answer \n Consider an organ pipe open at both ends. For a standing wave in the pipe, what is the wavelength of the fundamental tone, in terms of the pipe’s length? ",
 		"answer":"ANSWER: 2 (ACCEPT: 2 PIPE LENGTHS)  ",
-		"c":9
+		"c":1
 	},
 	{
 		"question":"MATH Short Answer \n Giving your answer in standard form, give the equation of the circle with center at (0, 0) and diameter of 6: ",
 		"answer":"ANSWER: x2 + y2 = 9 ",
-		"c":9
+		"c":2
 	},
 	{
-		"question":"MATH Short Answer \n What is the degree measure of the angle formed by 2 secants intersecting outside a circle if the measures of the intercepted arcs are 80º and 34º? ",
+		"question":"MATH Short Answer \n What is the degree measure of, the angle formed by 2 secants intersecting, outside a circle\n if the measures of the intercepted arcs are\n 80 º and\n 34 º? ",
 		"answer":"ANSWER: 23 (Solution: ½(80º – 34º) = 23º) ",
-		"c":9
+		"c":1
 	}
 ]
