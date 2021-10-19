@@ -1,0 +1,252 @@
+[
+	{
+		"question":"PHYSICS Multiple Choice \n Which of the following is the unit of the product of resistance and capacitance? \n W) Farad \n X) Ohm \n Y) Mho \n Z) Second ",
+		"answer":"ANSWER: Z) SECOND ",
+		"c":9
+	},
+	{
+		"question":"PHYSICS Multiple Choice \n For photons traveling through a vacuum, a photon in the ultraviolet spectrum has which of the following characteristics, compared to a photon in the infrared spectrum? \n W) Longer wavelength \n X) Same speed \n Y) Lower frequency \n Z) Half the energy ",
+		"answer":"ANSWER: X) SAME SPEED ",
+		"c":9
+	},
+	{
+		"question":"ENERGY Short Answer \n What is the term for the system of power generation in which solar energy is converted to heat that drives a steam turbine? ",
+		"answer":"ANSWER: CONCENTRATED SOLAR POWER (ACCEPT: CSP; DO NOT ACCEPT: SOLAR POWER) ",
+		"c":9
+	},
+	{
+		"question":"ENERGY Short Answer \n By number, rank the following four electricity generating resources in terms of capital cost per megawatt-hour from least to greatest: 1) hydropower, 2) nuclear, 3) conventional coal, 4) natural gas. ",
+		"answer":"ANSWER: 4, 3, 1, 2  ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Multiple Choice \n Which of the following species does NOT have at least two equally favorable resonance structures? \n W) C6H6 \n X) NO2- \n Y) CO2 \n Z) SO2 ",
+		"answer":"ANSWER: Y) CO2 ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Multiple Choice \n For a given reaction, ΔH [delta H] is positive and ΔS [delta S] is negative. In which of the following temperature limits is the reaction spontaneous? \n W) Not spontaneous at any temperature \n X) Spontaneous at only high temperatures \n Y) Spontaneous at only low temperatures \n Z) Spontaneous at all temperatures ",
+		"answer":"ANSWER: W) NOT SPONTANEOUS AT ANY TEMPERATURE ",
+		"c":9
+	},
+	{
+		"question":"MATH Short Answer \n Providing your answer in simplest form, what is sec(11π/6) [secant of 11 pi over 6]? ",
+		"answer":"ANSWER: 2√33 ",
+		"c":9
+	},
+	{
+		"question":"MATH Short Answer \n Each exterior angle of a regular polygon has a measure of 10°. What is the sum, in degrees, of the measures of the interior angles of the polygon? ",
+		"answer":"ANSWER: 6120°  ",
+		"c":9
+	},
+	{
+		"question":"EARTH AND SPACE Multiple Choice \n In which of the following reservoirs in the hydrologic cycle do water molecules have the shortest water residence time? \n W) Atmosphere \n X) Aquifer [AK-wuh-fer] \n Y) Ocean \n Z) River ",
+		"answer":"ANSWER: W) ATMOSPHERE ",
+		"c":9
+	},
+	{
+		"question":"EARTH AND SPACE Short Answer \n What is the Hubble classification for disk galaxies with very little gas and poorly defined spiral arms? ",
+		"answer":"ANSWER: S0 (ACCEPT: SB0) ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Short Answer \n Which fatty structure in the forehead of a toothed whale appears to focus and direct outgoing sound waves? ",
+		"answer":"ANSWER: MELON (ACCEPT: SPERMACETI ORGAN) ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Multiple Choice \n Following a stroke that affects the left cerebral hemisphere in an elderly female patient, the patient has halting speech, poor articulation and loss of the ability to write. The patient can still read and understand speech. A PET scan would reveal damage to which of the following parts of the brain? \n W) Wernicke’s area \n X) Amygdala [uh-MIG-duh-luh] \n Y) Broca’s area \n Z) Thalamus [THAL-uh-muhs] ",
+		"answer":"ANSWER: Y) BROCA’S AREA  ",
+		"c":9
+	},
+	{
+		"question":"PHYSICS Multiple Choice \n When a clay pigeon breaks into pieces after being shot, which of the following can be said about the shape of the trajectories of these pieces of clay? \n W) They are always elliptical \n X) They are always parabolic \n Y) They are always hyperbolic \n Z) They may be any of elliptical, parabolic, or hyperbolic depending on the speed of the components ",
+		"answer":"ANSWER: X) THEY ARE ALWAYS PARABOLIC ",
+		"c":9
+	},
+	{
+		"question":"PHYSICS Short Answer \n A 1000 kilogram car moving with a speed of 6 meters per second collides perfectly inelastically with 2000 kilogram truck that is at rest. What is the change in kinetic energy in joules during this collision? ",
+		"answer":"ANSWER: 12,000 ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Multiple Choice \n Which of the following substances would you expect to have the highest molar entropy at standard conditions? \n W) Argon gas \n X) Butane gas \n Y) Sulfur dioxide gas \n Z) Gaseous water ",
+		"answer":"ANSWER: X) BUTANE GAS ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Short Answer \n According to the VSEPR model, what is the molecular geometry of xenon [ZEE-non] tetrafluoride? ",
+		"answer":"ANSWER: SQUARE PLANAR  ",
+		"c":9
+	},
+	{
+		"question":"MATH Short Answer \n Express the following in simplest form, with variables raised only to positive powers: (4𝑥𝑥5𝑦𝑦−3)−2 [open parenthesis 4x to the fifth y to the power of negative 3 close parenthesis to the power of negative 2] ",
+		"answer":"ANSWER: 𝑦𝑦616𝑥𝑥10 ",
+		"c":9
+	},
+	{
+		"question":"MATH Short Answer \n A regular decagon with a perimeter of 40 units has an area of 40k square units. Find its apothem. ",
+		"answer":"ANSWER: 2k ",
+		"c":9
+	},
+	{
+		"question":"EARTH AND SPACE Multiple Choice \n Which of the following contains most of the angular momentum about the Sun in the solar system? \n W) Jupiter \n X) The Kuiper belt \n Y) The Sun \n Z) Neptune ",
+		"answer":"ANSWER: W) JUPITER ",
+		"c":9
+	},
+	{
+		"question":"EARTH AND SPACE Short Answer \n What is the name of the classification system used to rate a hurricane's intensity? ",
+		"answer":"ANSWER: SAFFIR-SIMPSON HURRICANE SCALE (ACCEPT: SAFFIR-SIMPSON)  ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Multiple Choice \n Elevated levels of AST and ALT, which are transaminases, often indicate there is a problem with which of the following organs? \n W) Liver \n X) Pancreas \n Y) Kidneys \n Z) Heart ",
+		"answer":"ANSWER: W) LIVER ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Short Answer \n Identify all of the following four digestive enzymes that are produced by the human pancreas: 1) carboxypeptidase [kahr-bok-see-PEP-ti-days], 2) lactase, 3) chymotrypsin [ky-moh-TRIP-sin], 4) amylase [AM-uh-lays]. ",
+		"answer":"ANSWER: 1, 3, 4 ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Short Answer \n A mass of hot copper with a heat capacity of 2.0 joules per Kelvin is dropped into the same volume of water and loses 80 joules of thermal energy. The final temperature of the copper is 295 Kelvin. What was its initial temperature in Kelvin? ",
+		"answer":"ANSWER: 335 ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Multiple Choice \n Which of the following tends to crystallize in a simple cubic unit cell? \n W) Polonium \n X) Copper \n Y) Aluminum \n Z) Iron ",
+		"answer":"ANSWER: W) POLONIUM  ",
+		"c":9
+	},
+	{
+		"question":"PHYSICS Multiple Choice \n A 10 kilogram box is moving with a speed of 5 meters per second along a level surface. If the coefficient of kinetic friction between the box and the surface is 0.1 and the coefficient of static friction between the box and the surface is 0.2, which of the following is the frictional force in newtons that acts on the box, given that the acceleration due to gravity is 9.8 meters per second squared? \n W) 1.0 \n X) 2.0 \n Y) 9.8 \n Z) 19.6 ",
+		"answer":"ANSWER: Y) 9.8 ",
+		"c":9
+	},
+	{
+		"question":"PHYSICS Short Answer \n Three 300-microfarads capacitors are connected in series to a 12 volt battery. What is the energy stored in one of these capacitors in microjoules after the circuit has reached steady state? ",
+		"answer":"ANSWER: 2400 ",
+		"c":9
+	},
+	{
+		"question":"ENERGY Multiple Choice \n An air compressor is about 20% efficient in converting electricity to compressed air. Where does the majority of the remaining 80% of the electricity go? \n W) It doesn't go anywhere, it stays in the motor \n X) It turns into thermal energy \n Y) It turns into sound \n Z) It turns into vibration ",
+		"answer":"ANSWER: X) IT TURNS INTO THERMAL ENERGY ",
+		"c":9
+	},
+	{
+		"question":"ENERGY Multiple Choice \n As more zero variable cost generators are added to an electric power market, how would you expect the average cost of power in the entire market to change? \n W) It would increase \n X) It would decrease \n Y) There would be no change \n Z) It would fluctuate ",
+		"answer":"ANSWER: X) IT WOULD DECREASE  ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Multiple Choice \n Free radical polymerization can be initiated in several different ways. Peroxides and azo compounds frequently act as which of the following types of initiator? \n W) Thermal \n X) Photochemical \n Y) Ionizing \n Z) Redox ",
+		"answer":"ANSWER: W) THERMAL ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Short Answer \n A buffer solution is 0.05 molar in lactic acid and 0.5 molar in sodium lactate. If the pKa of lactic acid is 3.85, what is the pH of this solution? ",
+		"answer":"ANSWER: 4.85 ",
+		"c":9
+	},
+	{
+		"question":"MATH Short Answer \n Providing your answer in simplest form, what is the cotangent of x, if cos(\n X) < 0, sin(\n X) > 0, and x has reference angle pi/6? ",
+		"answer":"ANSWER: − √3 ",
+		"c":9
+	},
+	{
+		"question":"MATH Multiple Choice \n Which of the following represents the solution in degrees of the equation 4sin2x = 1 in the open interval from 0° to 180°? \n W) 30o \n X) 30o, 60o \n Y) 30o, 150° \n Z) 60o, 120o ",
+		"answer":"ANSWER: Y) 30o, 150°  ",
+		"c":9
+	},
+	{
+		"question":"EARTH AND SPACE Multiple Choice \n Photographs taken by ground cameras and NASA's polar satellite show evidence of magnetic field lines connecting Earth's upper atmosphere directly to the Sun. Scientists believe that solar wind particles flow along these lines, providing energy for which of the following phenomena to occur? \n W) Halo effect \n X) Rainbow \n Y) Auroral light \n Z) Solar flare ",
+		"answer":"ANSWER: Y) AURORAL LIGHT ",
+		"c":9
+	},
+	{
+		"question":"EARTH AND SPACE Short Answer \n What is the polymorph of graphite that is formed in Earth’s mantle? ",
+		"answer":"ANSWER: DIAMOND ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Short Answer \n What phylum within the animal kingdom is characterized by having no symmetry and no true tissues? ",
+		"answer":"ANSWER: PORIFERA ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Short Answer \n What is the name of the gland in insects that produces juvenile hormone? ",
+		"answer":"ANSWER: CORPUS ALLATUM (ACCEPT: CORPORA ALLATA)  ",
+		"c":9
+	},
+	{
+		"question":"PHYSICS Multiple Choice \n A mass is suspended from the ceiling by two ropes. Rope 1 makes a larger angle with the horizontal than Rope 2 does. Which of the following statements is true about the tension in the ropes? \n W) The tensions in the ropes are equal \n X) The tension in Rope 1 is greater than the tension in Rope 2 \n Y) The tension in Rope 2 is greater than the tension in Rope 1 \n Z) The tension in Rope 2 is zero ",
+		"answer":"ANSWER: X) THE TENSION IN ROPE 1 IS GREATER THAN THE TENSION IN ROPE 2 ",
+		"c":9
+	},
+	{
+		"question":"PHYSICS Short Answer \n A 5 microcoulomb charge is uniformly distributed in a 1-meter diameter sphere. Given that the coulomb constant is 9 x 109 newton meters squared per coulomb squared, what is the electric field in newtons per coulomb at a radius of 0.25 from the center of the sphere? ",
+		"answer":"ANSWER: 0 ",
+		"c":9
+	},
+	{
+		"question":"ENERGY Multiple Choice \n Which of the following produces wind energy? \n W) The Earth’s rotation \n X) Uneven heating of the Earth’s surface \n Y) Movement of the tectonic plates \n Z) The Moon’s gravitational pull ",
+		"answer":"ANSWER: X) UNEVEN HEATING OF THE EARTH’S SURFACE ",
+		"c":9
+	},
+	{
+		"question":"ENERGY Multiple Choice \n Assuming similar wind velocity and turbine swept area, of the following places, where would you anticipate the largest power output from a wind turbine? \n W) Denver \n X) Nebraska \n Y) Rhode Island \n Z) West Texas ",
+		"answer":"ANSWER: Y) RHODE ISLAND  ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Short Answer \n What is the term for the unique, chitinous [KY-tin-ous], tooth-like, feeding structure found in many mollusks [MOL-uhsks]? ",
+		"answer":"ANSWER: RADULA ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Short Answer \n Identify all of the following four parts of the human body in which you would find simple cuboidal epithelium [KYOO-boid-uhl ep-uh-THEE-lee-uhm]: 1) thyroid gland, 2) bronchioles [BRONG-kee-ohls], 3) kidney, 4) lining of arteries. ",
+		"answer":"ANSWER: 1, 3 (ACCEPT: THYROID GLAND, KIDNE\n Y) ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Multiple Choice \n Which of the following compounds is insoluble in water? \n W) Potassium acetate \n X) Aluminum sulfide \n Y) Lithium carbonate \n Z) Magnesium bromide ",
+		"answer":"ANSWER: X) ALUMINUM SULFIDE ",
+		"c":9
+	},
+	{
+		"question":"CHEMISTRY Short Answer \n Place the following four molecules in order from lowest to highest entropy of vaporization: 1) hydrogen chloride, 2) ammonia, 3) water, 4) hydrogen fluoride. ",
+		"answer":"ANSWER: 4, 1, 2, 3 (ACCEPT: HYDROGEN FLUORIDE, HYDROGEN CHLORIDE, AMMONIA, WATER)  ",
+		"c":9
+	},
+	{
+		"question":"MATH Multiple Choice \n Which of the following represents an equivalent value for log10√1000 [log base 10 of the square root of 1000]? \n W) 1032 [10 to the power of three halves] \n X) 1023 [10 to the power of two thirds] \n Y) 3/2 \n Z) 2/3 ",
+		"answer":"ANSWER: Y) 3/2 ",
+		"c":9
+	},
+	{
+		"question":"MATH Multiple Choice \n Which of the following represents a simplified form of: sin x + 𝑐𝑐𝑐𝑐𝑐𝑐2𝑥𝑥𝑠 𝑠𝑠𝑠𝑠𝑠 [sine of x plus the fraction with numerator cosine squared of x and denominator sine of x]? \n W) csc x [cosecant of x] \n X) sec x [secant of x] \n Y) cos2𝑥𝑥 [cosine squared of x] \n Z) 1 ",
+		"answer":"ANSWER: W) csc x ",
+		"c":9
+	},
+	{
+		"question":"EARTH AND SPACE Short Answer \n Patterns of paleomagnetism along seafloor spreading centers support plate tectonic theory and are based on what process that occurs, on average, every 200,000 to 250,000 years? ",
+		"answer":"ANSWER: POLAR REVERSAL (ACCEPT: MAGNETIC REVERSAL) ",
+		"c":9
+	},
+	{
+		"question":"EARTH AND SPACE Multiple Choice \n Which of the following best approximates the percentage of solar-type binary stellar systems? \n W) 0.1% \n X) 1% \n Y) 10% \n Z) 50% ",
+		"answer":"ANSWER: Z) 50%  ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Multiple Choice \n Which of the following animals uses a vomeronasal organ? \n W) Crocodile \n X) Garter snake \n Y) Toad \n Z) House fly ",
+		"answer":"ANSWER: X) GARTER SNAKE ",
+		"c":9
+	},
+	{
+		"question":"BIOLOGY Short Answer \n Name all of the following four amino acids that would have a net positive charge in Tris glycine buffer at pH 8.6: 1) glycine [GLY-seen], 2) alanine [AL-uh-nin], 3) lysine [LY-seen], 4) arginine [AHR-juh-neen]. ",
+		"answer":"ANSWER: 3, 4 (ACCEPT: LYSINE, ARGININE)",
+		"c":9
+	}
+]

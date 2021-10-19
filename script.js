@@ -67,7 +67,7 @@ window.onload = () => {
     document.getElementById("play").addEventListener("click", () => {
         log("play pressed");
 	window.speechSynthesis.cancel();
-        speech.onend = () => {timer(20)};
+        speech.onend = () => {timer(40)};
         speech.text = txt[count].question;
 	log("set rate");
         window.speechSynthesis.speak(speech);
