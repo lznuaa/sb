@@ -1,0 +1,232 @@
+[
+	{
+		"question":"Earth and Space Short Answer \n What is a tornado called, when it moves or develops over water? ",
+		"answer":"ANSWER: WATERSPOUT ",
+		"c":1
+	},
+	{
+		"question":"Earth and Space Multiple Choice \n As the Atlantic Ocean began to open, around 200 million years ago, which of the following regions was most, directly adjacent to the crust, that now underlies the eastern margin of the United States? \n W) The British Isles \n X) The southwest margin of Scandinavia \n Y) The northwest margin of Africa \n Z) The Walvis Ridge ",
+		"answer":"ANSWER: Y) THE NORTHWEST MARGIN OF AFRICA  ",
+		"c":0
+	},
+	{
+		"question":"Biology Multiple Choice \n In which of the following organelles does transcription NOT occur? \n W) Nucleus \n X) Peroxisome  \n Y) Chloroplast  \n Z) Mitochondrion  ",
+		"answer":"ANSWER: X) PEROXISOME ",
+		"c":1
+	},
+	{
+		"question":"Biology Short Answer \n A commonly-used method of classifying animals is to find a shared ancestral characteristic, and use it to group organisms as, either within the group or outside the group. Identify all of the following three animals, that are inside the group, for the hinged jaw characteristic: \n 1) Lamprey; \n 2) Turtle; \n 3) Bass. ",
+		"answer":"ANSWER: 2 AND 3  ",
+		"c":"guess"
+	},
+	{
+		"question":"Math Short Answer \n Solve the following equation for x: 4 divided by \n open parenthesis, x Minus 6,  close parenthesis \n equals \n  5 divided by \n open parenthesis\n x Minus 1 \n close parenthesis. ",
+		"answer":"ANSWER: 26 ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n Identify all of the following four expressions, that are ODD functions: \n 1) Cube root of x; \n 2) Cosine of x; \n 3) Tangent of x; \n 4) e to the x power. ",
+		"answer":"ANSWER: 1 AND 3  ",
+		"c":0
+	},
+	{
+		"question":"Chemistry Multiple Choice \n Which of the following elements is most electronegative, according to the Pauling scale? \n W) Carbon \n X) Iron \n Y) Arsenic \n Z) Tellurium ",
+		"answer":"ANSWER: W) CARBON ",
+		"c":0
+	},
+	{
+		"question":"Chemistry Multiple Choice \n Which of the following best explains, why a beam of light is scattered, when it shines through milk, but not through water? \n W) Milk is a colloid, while water is not \n X) Milk is denser than water \n Y) Milk forms weaker hydrogen bonds than water \n Z) Milk has a higher vapor pressure than water ",
+		"answer":"ANSWER: W) MILK IS A COLLOID, WHILE WATER IS NOT  ",
+		"c":1
+	},
+	{
+		"question":"Energy Short Answer \n Scientists at Lawrence Berkeley National Lab, recently used molybdenum disulfide, to generate a one-nanometer transistor gate that is resistant to,  what quantum-mechanical process, where electrons transition from one side of a potential barrier to another? ",
+		"answer":"ANSWER: TUNNELING (ACCEPT: QUANTUM TUNNELING) ",
+		"c":1
+	},
+	{
+		"question":"Energy Short Answer \n A team of Berkeley Lab researchers recently published a study, using a thin monolayer of, an sp2-hybridized material to image electric fields. What is the common name of the material they used? ",
+		"answer":"ANSWER: GRAPHENE  ",
+		"c":9
+	},
+	{
+		"question":"Physics Short Answer \n Given a graph with velocity as the y axis, and time as the x axis, what physical quantity does the slope of the graph represent? ",
+		"answer":"ANSWER: ACCELERATION ",
+		"c":1
+	},
+	{
+		"question":"Physics Short Answer \n By what factor is, the frequency of a spring-mass oscillator, multiplied if the mass of the block doubles? ",
+		"answer":"ANSWER: SQUARE ROOT 2 OVER 2  ",
+		"c":1
+	},
+	{
+		"question":"Biology Multiple Choice \n Which of the following human proteins, when fully assembled, contains exactly four subunits? \n W) Actin \n X) Myoglobin \n Y) Thrombin \n Z) Hemoglobin ",
+		"answer":"ANSWER: Z) HEMOGLOBIN ",
+		"c":1
+	},
+	{
+		"question":"Biology Short Answer \n Identify all of the following three molecules, that should be able to pass through a nuclear pore, in a eukaryotic cell: 1) mRNA; 2) Glucose-1-phosphate; 3) Histone. ",
+		"answer":"ANSWER: ALL  ",
+		"c":9
+	},
+	{
+		"question":"Earth and Space Multiple Choice \n Which of the Milankovitch cycles, account for climate changes over a 41,000 year period? \n W) Eccentricity \n X) Obliquity  \n Y) Procession of the equinox \n Z) Apsidal precession ",
+		"answer":"ANSWER: X) OBLIQUITY ",
+		"c":9
+	},
+	{
+		"question":"Earth and Space Short Answer \n Flocculent and grand design are words, used to describe what specific type of galaxy? ",
+		"answer":"ANSWER: SPIRAL  ",
+		"c":1
+	},
+	{
+		"question":"Energy Short Answer \n William Robert Grove proposed the idea, that if water can be broken down to hydrogen and oxygen with electricity, the opposite reaction should produce electricity. What device did he then go on to invent based on this idea? ",
+		"answer":"ANSWER: FUEL CELL (ACCEPT: HYDROGEN FUEL CELL) ",
+		"c":9
+	},
+	{
+		"question":"Energy Short Answer \n The Planck and BICEP2 experiments, partially supported by the Department of Energy, were constructed to attempt to confirm what event in the early history of the universe? ",
+		"answer":"ANSWER: COSMIC INFLATION (ACCEPT: INFLATION, INFLATIONARY EPOCH; DO NOT ACCEPT: BIG BANG)  ",
+		"c":9
+	},
+	{
+		"question":"Math Short Answer \n Find the zeroes of the function f of,  x equals, 6 over, open parenthesis, x squared, minus,  6x,  plus, 5, close parenthesis. ",
+		"answer":"ANSWER: NONE ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n What is the derivative of the function, x squared, time, e to the x,  at x = 1? ",
+		"answer":"ANSWER: 3e  ",
+		"c":1
+	},
+	{
+		"question":"Chemistry Short Answer \n What quantum number is responsible for, the energy of the orbital and corresponds to the shell of the electrons? ",
+		"answer":"ANSWER: PRINCIPAL (ACCEPT: N) ",
+		"c":1
+	},
+	{
+		"question":"Chemistry Short Answer \n Identify all of the following three statements that are true, of concentration cells: \n 1) They have standard cell potentials equal to zero; \n 2) The spontaneous reaction is always from the less-concentrated solution to the more-concentrated solution; \n 3) Concentration cells can always proceed spontaneously. ",
+		"answer":"ANSWER: 1 AND 3  ",
+		"c":9
+	},
+	{
+		"question":"Physics Short Answer \n A 2-kilogram ball, is thrown directly down, from the top of a tall building. If a 6-kilogram ball, is thrown directly upwards, at the same speed from the top of the same building, what is the ratio of the total energy of the 6-kilogram ball to that of the 2-kilogram ball? ",
+		"answer":"ANSWER: 3 (ACCEPT: 3 TO 1) ",
+		"c":9
+	},
+	{
+		"question":"Physics Short Answer \n The nucleus of what element is produced, in a deuterium -tritium  fusion reaction? ",
+		"answer":"ANSWER: HELIUM  ",
+		"c":1
+	},
+	{
+		"question":"Earth and Space Short Answer \n What non-foliated metamorphic rock forms, from metamorphism of limestone? ",
+		"answer":"ANSWER: MARBLE ",
+		"c":1
+	},
+	{
+		"question":"Earth and Space Multiple Choice \n In which of the following locations in the Atlantic Ocean, would you find a deep water formation site? \n W) Off the southern coast of Greenland \n X) In the Caribbean Sea \n Y) Off the coast of New York \n Z) Along the coast of Argentina ",
+		"answer":"ANSWER: W) OFF THE SOUTHERN COAST OF GREENLAND  ",
+		"c":0
+	},
+	{
+		"question":"Math Short Answer \n As x approaches one\n the limit of f of x is 6\n the limit of g of x is 8\n and the limit of h of x is 10\n What is the limit as x approaches one of the function, f plus\n g times h? ",
+		"answer":"ANSWER: 86 ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n What is the slope-intercept form, of the equation, of the oblique asymptote, of the function\n f of x, equals, the fraction with\n numerator, x squared, plus, 7x and, denominator, x plus 2? ",
+		"answer":"ANSWER: y = x + 5  ",
+		"c":9
+	},
+	{
+		"question":"Energy Short Answer \n What particle collider, located at Brookhaven National Lab, was the first to demonstrate the creation of quark-gluon plasma? ",
+		"answer":"ANSWER: RHIC (ACCEPT: RELATIVISTIC HEAVY ION COLLIDER) ",
+		"c":9
+	},
+	{
+		"question":"Energy Short Answer \n In car batteries, elemental lead is converted to what compound during discharge? ",
+		"answer":"ANSWER: LEAD SULFATE (ACCEPT: LEAD (II) SULFATE, PbSO4)  ",
+		"c":1
+	},
+	{
+		"question":"Biology Short Answer \n Identify all of the following three molecules, that catalyze the chemical digestion of food: 1) Amylase; 2) Bile acids; 3) Insulin. ",
+		"answer":"ANSWER: 1 ",
+		"c":9
+	},
+	{
+		"question":"Biology Short Answer \n Identify all of the following three organisms, that are deuterostomes : 1) Jellyfish; 2) Humans; 3) Sea cucumbers. ",
+		"answer":"ANSWER: 2 AND 3  ",
+		"c":9
+	},
+	{
+		"question":"Physics Short Answer \n What is the equivalent capacitance, in microfarads, of a series combination, of a 3-microfarad capacitor, and 6-microfarad capacitor? ",
+		"answer":"ANSWER: 2 ",
+		"c":1
+	},
+	{
+		"question":"Physics Short Answer \n Kate usually drives from San Francisco to Lake Tahoe at a speed of, 100 kilometers per hour, and the trip usually takes, two and a half hours. On her return trip, however, traffic slows her down to, 75 kilometers per hour. How much longer, in minutes, does her trip take? ",
+		"answer":"ANSWER: 50  ",
+		"c":1
+	},
+	{
+		"question":"Chemistry Short Answer \n Rank the following three gases in terms of increasing rate of effusion: \n 1) Chlorine; \n 2) Helium; \n 3) Nitrogen. ",
+		"answer":"ANSWER: 1, 3, 2 ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n Rank the following three elements in increasing order of, effective nuclear charge felt by their valence electrons: \n 1) Oxygen; \n 2) Boron; \n 3) Beryllium. ",
+		"answer":"ANSWER: 3, 2, 1  ",
+		"c":8
+	},
+	{
+		"question":"Earth and Space Short Answer \n Triton is a moon of what gas giant? ",
+		"answer":"ANSWER: NEPTUNE ",
+		"c":1
+	},
+	{
+		"question":"Earth and Space Short Answer \n The approximate surface temperature of our Sun is, 5800 kelvins, while the approximate surface temperature of the blue giant star Rigel is, 11,600 kelvins. According to these data and the Stefan-Boltzmann law, how many times as much radiative power per unit of surface,  area does Rigel generate as the Sun? ",
+		"answer":"ANSWER: 16  ",
+		"c":9
+	},
+	{
+		"question":"Math Short Answer \n Simplify x raised to the 0.8 power, times, x raised to the 1.2 power. ",
+		"answer":"ANSWER: x2 ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n What is the least common multiple, of the first 5, positive composite numbers? ",
+		"answer":"ANSWER: 360  ",
+		"c":1
+	},
+	{
+		"question":"Biology Short Answer \n In animal cells, what type of cellular junction is formed, by connexons and enables molecules to pass from cell to cell? ",
+		"answer":"ANSWER: GAP JUNCTIONS ",
+		"c":9
+	},
+	{
+		"question":"Biology Short Answer \n A pea farmer starts with two parent plants, one dominant plant being true-breeding for, yellow and round seeds,\n while the recessive plant is true-breeding for, green and wrinkled seeds. If the F1 generation is self-pollinated, what fraction of the F2 generation will have yellow and round seeds? ",
+		"answer":"ANSWER: 9/16  ",
+		"c":1
+	},
+	{
+		"question":"Physics Short Answer \n What is the ratio of the intensity of a 30-decibel sound, to that of a 20-decibel sound? ",
+		"answer":"ANSWER: 10 (ACCEPT: 10 TO 1) ",
+		"c":9
+	},
+	{
+		"question":"Physics Short Answer \n A 4.5-centimeter, tall object is placed, 15 centimeters, from a double convex lens, with a 9-centimeter focal length. In centimeters, what is the image distance? ",
+		"answer":"ANSWER: 22.5  ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n A student places a small amount of n-octane into, a constant-volume reaction vessel, and combusts the sample in excess oxygen. The heat given off in this reaction, is a direct measure of the change in what state function, between products and reactants? ",
+		"answer":"ANSWER: INTERNAL ENERGY ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n Identify all of the following three molecules, that have an empirical formula consisting of only one type of atom: \n 1) Charcoal; \n 2) Diamond;\n 3) Hexane. ",
+		"answer":"ANSWER: 2",
+		"c":1
+	}
+]
