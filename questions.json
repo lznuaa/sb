@@ -1,232 +1,232 @@
 [
 	{
-		"question":"Physics – Short Answer \n During a Science Bowl study session, the team captain pushed a textbook across a frictionless table with a force of 1.8 newtons. If the distance she pushed the book is 1.5 meters, how much work, in joules, did she do on the book? ",
+		"question":"Physics Short Answer \n During a Science Bowl study session, the team captain pushed a textbook across, a frictionless table,  with a force of 1.8 newtons. If the distance she pushed the book is, 1.5 meters, how much work, in joules, did she do on the book? ",
 		"answer":"ANSWER: 2.7 ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Physics – Short Answer \n A 15-kilogram fish is swimming at 2 meters per second and eats a smaller, 5- kilogram fish that is stationary. What is the final velocity, in meters per second, of the two-fish system? ",
+		"question":"Physics Short Answer \n A 15-kilogram fish, is swimming at, 2 meters per second, and eats a smaller, 5- kilogram fish, that is stationary. What is the final velocity, in meters per second, of the two-fish system? ",
 		"answer":"ANSWER: 1.5  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Earth and Space – Multiple Choice \n What type of volcano is characterized by gentle eruptions and large, gently-sloped landforms? \n W) Composite \n X) Lava dome \n Y) Cinder cone \n Z) Shield ",
+		"question":"Earth and Space Multiple Choice \n What type of volcano is characterized by gentle eruptions and large, gently-sloped landforms? \n W) Composite \n X) Lava dome \n Y) Cinder cone \n Z) Shield ",
 		"answer":"ANSWER: Z) SHIELD ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Earth and Space – Short Answer \n Order the following three cloud types in increasing order of elevation in the Earth’s atmosphere: 1) Altocumulus; 2) Cirrocumulus; 3) Stratocumulus. ",
+		"question":"Earth and Space Short Answer \n Order the following three cloud types in increasing order of elevation in the Earth’s atmosphere: 1) Altocumulus; 2) Cirrocumulus; 3) Stratocumulus. ",
 		"answer":"ANSWER: 3, 1, 2  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Math – Short Answer \n An artist creates the background for a painting by placing a circle in a square frame so that their centers coincide. If the radius of the circle is 7 inches, and the minimum distance from the circle to the square is 5 inches, what is the perimeter, in inches, of the inside of the frame? ",
+		"question":"Math Short Answer \n An artist creates the background for a painting, by placing a circle, in a square frame, so that their centers coincide. If the radius of the circle is, 7 inches, and the minimum distance from the circle to the square is, 5 inches, what is the perimeter, in inches, of the inside of the frame? ",
 		"answer":"ANSWER: 96 ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Math – Short Answer \n Solve the following equation for x over the real numbers: 32 to the power open parenthesis 2x close parenthesis equals 4 to the power open parenthesis 2x minus 1 close parenthesis. ",
+		"question":"Math Short Answer \n Solve the following equation for x over the real numbers:\n 32 to the power, open parenthesis, 2x, close parenthesis, equals\n 4 to the power, open parenthesis, 2x minus 1, close parenthesis. ",
 		"answer":"ANSWER: –1/3  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Chemistry – Short Answer \n How many electrons does the beryllium [beh-RILL-ee-um] two plus cation [CAT-eye-on] have in its valence [VAY-lence] shell? ",
+		"question":"Chemistry Short Answer \n How many electrons does the beryllium  two, plus cation,  have in, its valence shell? ",
 		"answer":"ANSWER: TWO ",
 		"c":9
 	},
 	{
-		"question":"Chemistry – Short Answer \n What element is formed when nitrogen-13 decays by positron emission? ",
+		"question":"Chemistry Short Answer \n What element is formed when, nitrogen 13, decays, by positron emission? ",
 		"answer":"ANSWER: CARBON  ",
 		"c":9
 	},
 	{
-		"question":"Energy – Short Answer \n Fermilab’s [FUR-mee-labs] MicroBooNE collaboration is currently operating a 170-ton Liquid Argon Time Projection Chamber that is used to detect what class of leptons? ",
+		"question":"Energy Short Answer \n Fermilab’s  MicroBooNE collaboration is currently, operating a 170-ton, Liquid Argon Time Projection Chamber, that is used to detect what class of leptons? ",
 		"answer":"ANSWER: NEUTRINO ",
 		"c":9
 	},
 	{
-		"question":"Energy – Short Answer \n Scientists at Los Alamos National Lab are currently using computational models to study the astrophysical processes that produced the lanthanide and actinide elements. Identify all of the following three situations that produce rare-earth elements: 1) Big-bang nucleosynthesis; 2) The core of a four solar-mass main-sequence star; 3) The collision of two neutron stars. ",
+		"question":"Energy Short Answer \n Scientists at Los Alamos National Lab, are currently using computational models, to study the astrophysical processes, that produced the lanthanide and actinide elements. Identify all of the following three situations, that produce rare-earth elements: 1) Big-bang nucleosynthesis; 2) The core of a four solar-mass main-sequence star; 3) The collision of two neutron stars. ",
 		"answer":"ANSWER: 3  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Biology – Multiple Choice \n Bacteria at deep sea vents obtain energy by oxidizing hydrogen sulfide. They would be classified as which of the following? \n W) Photoautotrophic [photo-auto-TROH-fik] \n X) Chemoautotrophic [kee-moh-auto-TROH-fik] \n Y) Photoheterotrophic [photo-hetero-TROW-fik] \n Z) Chemoheterotrophic [kee-moh-hetero-TROH-fik] ",
+		"question":"Biology Multiple Choice \n Bacteria at deep sea, vents obtain energy by oxidizing hydrogen sulfide. They would be classified as which of the following? \n W) Photoautotrophic \n X) Chemoautotrophic \n Y) Photoheterotrophic \n Z) Chemoheterotrophic  ",
 		"answer":"ANSWER: X) CHEMOAUTOTROPHIC ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Biology – Short Answer \n Human vision occurs due to the photoisomerization [photo-eye-saw-mer-ihZAY-shun] of what molecule? ",
+		"question":"Biology Short Answer \n Human vision occurs due to the photoisomerization of what molecule? ",
 		"answer":"ANSWER: RETINAL (ACCEPT: RETINALDEHYDE, DO NOT ACCEPT: RETINOL – if you can tell the difference)  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Chemistry – Short Answer \n How many aluminum atoms are in one formula unit of the compound aluminum sulfate? ",
+		"question":"Chemistry Short Answer \n How many aluminum atoms are in, one formula unit of the compound aluminum sulfate? ",
 		"answer":"ANSWER: 2 ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Chemistry – Multiple Choice \n Which of the following statements concerning pressure-temperature phase diagrams is NOT TRUE? \n W) The slope of the liquid-solid coexistence curve is positive if the solid floats on the liquid \n X) Fluids at a pressure above the critical pressure cannot be boiled \n Y) Gases are found in the low-pressure, high-temperature regime \n Z) It is not possible for four phases of the same substance to be in equilibrium ",
+		"question":"Chemistry Multiple Choice \n Which of the following statements, concerning pressure-temperature phase diagrams is NOT TRUE? \n W) The slope of the liquid-solid coexistence curve is positive, if the solid floats on the liquid \n X) Fluids at a pressure above the critical pressure, cannot be boiled \n Y) Gases are found in the low-pressure, high-temperature regime \n Z) It is not possible for four phases of the same substance to be in equilibrium ",
 		"answer":"ANSWER: W) THE SLOPE OF THE LIQUID-SOLID COEXISTENCE CURVE IS POSITIVE IF THE SOLID FLOATS ON THE LIQUID  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Math – Short Answer \n A segment has its midpoint at (4, 2) and one endpoint at (1, 7). What are the coordinates of the other endpoint? ",
+		"question":"Math Short Answer \n A segment has its midpoint at (4, 2),  and one endpoint at (1, 7). What are the coordinates of the other endpoint? ",
 		"answer":"ANSWER: (7, –3) (ACCEPT: x = 7 AND y = –3) ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Math – Short Answer \n What is the sum from n = 1 to 6 of 3n2 ? ",
+		"question":"Math Short Answer \n What is the sum from n = 1 to 6 \n  of 3 n squared ? ",
 		"answer":"ANSWER: 273  ",
 		"c":9
 	},
 	{
-		"question":"Biology – Multiple Choice \n What is the function of the operculum [oh-PURR-kyoo-lum] in fish? \n W) Propulsion \n X) Protection of gills \n Y) Sensing predators \n Z) Decreasing drag when swimming ",
+		"question":"Biology Multiple Choice \n What is the function of the operculum  in fish? \n W) Propulsion \n X) Protection of gills \n Y) Sensing predators \n Z) Decreasing drag when swimming ",
 		"answer":"ANSWER: X) PROTECTION OF GILLS ",
 		"c":9
 	},
 	{
-		"question":"Biology – Short Answer \n What is the percent probability that a child inherits a mitochondrial [my-towKON-dree-ul] disorder from her father? ",
+		"question":"Biology Short Answer \n What is the percent probability, that a child inherits a mitochondrial disorder, from her father? ",
 		"answer":"ANSWER: 0  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Energy – Short Answer \n Lead-acid batteries are commonly found in cars. In these batteries, what substance serves as the electrolyte? ",
+		"question":"Energy Short Answer \n Lead-acid batteries are commonly found in cars. In these batteries, what substance serves as the electrolyte? ",
 		"answer":"ANSWER: SULFURIC ACID (ACCEPT: H2SO4) ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Energy – Short Answer \n The Fermilab PICO [PEE-koh] collaboration is currently studying the hypothesized spin-dependent scattering of WIMPs [wimps] off nuclei [NEW-klee-eye]. Identify all of the following three nuclei with which WIMPs could hypothetically interact in this manner: 1) Carbon-12; 2) Fluorine-18 [FLOOR-een eighteen]; 3) Fluorine-19. ",
+		"question":"Energy Short Answer \n The Fermilab PICO collaboration, is currently studying the hypothesized spin-dependent scattering of WIMPs off nuclei. Identify all of the following three nuclei, with which WIMPs could hypothetically interact in this manner: 1) Carbon 12; 2) Fluorine 18; 3) Fluorine 19. ",
 		"answer":"ANSWER: 3  ",
 		"c":9
 	},
 	{
-		"question":"Earth and Space – Short Answer \n The Dalton minimum and Modern maximum all correspond to the occurence of what? ",
+		"question":"Earth and Space Short Answer \n The Dalton minimum and Modern maximum all correspond to the occurence of what? ",
 		"answer":"ANSWER: SUNSPOTS ",
 		"c":9
 	},
 	{
-		"question":"Earth and Space – Short Answer \n What is the term for a spherically-shaped, dense group of up to a million stars that are thought to share a common origin? ",
+		"question":"Earth and Space Short Answer \n What is the term for a spherically-shaped, dense group of up to a million stars that are thought to share a common origin? ",
 		"answer":"ANSWER: GLOBULAR CLUSTER  ",
 		"c":9
 	},
 	{
-		"question":"Physics – Short Answer \n What scientist is famous for discovering X-rays? ",
+		"question":"Physics Short Answer \n What scientist is famous for discovering X-rays? ",
 		"answer":"ANSWER: WILHELM ROENTGEN (ACCEPT: ROENTGEN) ",
 		"c":9
 	},
 	{
-		"question":"Physics – Short Answer \n A meteor strikes the Earth and ejects a rock to a final speed of 8 kilometers per second, accelerating it over the course of 5 meters. Assuming the acceleration is constant and in kilometers per second squared, what is the magnitude of the acceleration upon the rock? ",
+		"question":"Physics Short Answer \n A meteor strikes the Earth and, ejects a rock to a final speed of 8 kilometers per second, accelerating it over the course of 5 meters. Assuming the acceleration is constant, and in kilometers per second squared, what is the magnitude of the acceleration upon the rock? ",
 		"answer":"ANSWER: 6,400  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Biology – Short Answer \n What animal phylum [FYE-lum] has the greatest number of identified species? ",
+		"question":"Biology Short Answer \n What animal phylum has the greatest number of identified species? ",
 		"answer":"ANSWER: ARTHROPODA ",
 		"c":9
 	},
 	{
-		"question":"Biology – Multiple Choice \n Which of the following is not a characteristic of paedomorphic [ped-ohMOOR-fik] amphibians? \n W) Delayed sexual maturity \n X) Aquatic life \n Y) External gills \n Z) Tadpole-like tail ",
+		"question":"Biology Multiple Choice \n Which of the following is not a characteristic of paedomorphic amphibians? \n W) Delayed sexual maturity \n X) Aquatic life \n Y) External gills \n Z) Tadpole-like tail ",
 		"answer":"ANSWER: W) DELAYED SEXUAL MATURITY  ",
 		"c":9
 	},
 	{
-		"question":"Earth and Space – Short Answer \n What is the term for the steady downhill flow of soil? ",
+		"question":"Earth and Space Short Answer \n What is the term for the steady downhill flow of soil? ",
 		"answer":"ANSWER: CREEP ",
 		"c":9
 	},
 	{
-		"question":"Earth and Space – Short Answer \n What is the name for the area of low pressure encircling Earth near the equator where the northeast and southeast trade winds come together? ",
+		"question":"Earth and Space Short Answer \n What is the name for the area of low pressure encircling Earth near the equator, where the northeast, and southeast trade winds come together? ",
 		"answer":"ANSWER: INTERTROPICAL CONVERGENCE ZONE (ACCEPT ITC\n Z)  ",
 		"c":9
 	},
 	{
-		"question":"Energy – Short Answer \n Researchers at the Advanced Photon Source have been studying a class of high-temperature superconductors based on a barium-arsenic crystal structure. These materials can demonstrate certain hallmarks of superconductivity when the material is ferromagnetic. What is the term for the transition temperature at which these materials will become paramagnetic? ",
+		"question":"Energy Short Answer \n Researchers at the Advanced Photon Source, have been studying a class of high-temperature superconductors, based on a barium-arsenic crystal structure. These materials can demonstrate certain hallmarks of superconductivity, when the material is ferromagnetic. What is the term for the transition temperature, at which these materials will become paramagnetic? ",
 		"answer":"ANSWER: CURIE TEMPERATURE ",
+		"c":1
+	},
+	{
+		"question":"Energy Short Answer \n Researchers at Ames Lab have made, a double salt, consisting of two anions, platinum two minus, and hydride, and one very large cation,  What 6th-row s-block element was used as, the cation in this salt? ",
+		"answer":"ANSWER: CESIUM ",
 		"c":9
 	},
 	{
-		"question":"Energy – Short Answer \n Researchers at Ames Lab have made a double salt consisting of two anions [AN-eye-ons], platinum two minus and hydride, and one very large cation [CAT-eye-on]. What 6th-row s-block element was used as the cation in this salt? ",
-		"answer":"ANSWER: CESIUM [SEEZ-ee-um]  ",
-		"c":9
-	},
-	{
-		"question":"Chemistry – Multiple Choice \n According to Boyle's Law, the volume of a gas is linearly related to what quantity? \n W) Pressure \n X) Pressure squared \n Y) One over pressure \n Z) One over pressure squared ",
+		"question":"Chemistry Multiple Choice \n According to Boyle's Law, the volume of a gas is linearly related to what quantity? \n W) Pressure \n X) Pressure squared \n Y) One over pressure \n Z) One over pressure squared ",
 		"answer":"ANSWER: Y) ONE OVER PRESSURE ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Chemistry – Multiple Choice \n Which of the following statements is the best explanation for why the atomic radius decreases across a period to the right? \n W) Increase in ionization [eye-on-ih-ZAY-shun] energy at the valence [VAY-lence] shell \n X) Increase in effective nuclear charge at the valence shell \n Y) Increase in atomic polarizability [POH-lah-rize-ah-BIL-itee] at the valence shell \n Z) Increase in electron affinity at the valence [VAY-lence] shell ",
+		"question":"Chemistry Multiple Choice \n Which of the following statements is the best explanation for, why the atomic radius decreases across a period to the right? \n W) Increase in ionization energy at the valence shell \n X) Increase in effective nuclear charge at the valence shell \n Y) Increase in atomic polarizability [POH-lah-rize-ah-BIL-itee] at the valence shell \n Z) Increase in electron affinity at the valence shell ",
 		"answer":"ANSWER: X) INCREASE IN EFFECTIVE NUCLEAR CHARGE AT THE VALENCE SHELL  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Math – Short Answer \n What is the second derivative with respect to x of 6x2 – 15 evaluated at x = 7? ",
+		"question":"Math Short Answer \n What is the second derivative with respect to x of\n 6 x squared, minus, 15,  evaluated at, x = 7? ",
 		"answer":"ANSWER: 12 ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Math – Short Answer \n How many points of intersection are there for the graphs of y = 3x and y = x2 – 3? ",
+		"question":"Math Short Answer \n How many points of intersection, are there for the graphs of, y = 3x, and, y = x squared, minus 3? ",
 		"answer":"ANSWER: 1  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Physics – Multiple Choice \n Which of the following is an example of an action that demonstrates negative work? \n W) Lifting a book \n X) Holding a book \n Y) Throwing a book to the ground \n Z) Gently lowering a book to the ground ",
+		"question":"Physics Multiple Choice \n Which of the following is an example of an action, that demonstrates negative work? \n W) Lifting a book \n X) Holding a book \n Y) Throwing a book to the ground \n Z) Gently lowering a book to the ground ",
 		"answer":"ANSWER: Z) GENTLY LOWERING A BOOK TO THE GROUND ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Physics – Short Answer \n A hunter fires a bullet at 300 meters per second at an angle 30 degrees above the horizontal. To two significant figures and in seconds, how long does it take for the bullet to reach its highest point? ",
+		"question":"Physics Short Answer \n A hunter fires a bullet, at 300 meters per second, at an angle 30 degrees above the horizontal. To two significant figures and in seconds, how long does it take for the bullet to reach its highest point? ",
 		"answer":"ANSWER: 15  ",
 		"c":9
 	},
 	{
-		"question":"Biology – Short Answer \n Mast cells are responsible for releasing what important signaling molecule that triggers vasodilation [vay-zoh-dye-LAY-shun] and inflammation? ",
+		"question":"Biology Short Answer \n Mast cells are responsible for releasing, what important signaling molecule, that triggers vasodilation and inflammation? ",
 		"answer":"ANSWER: HISTAMINE ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Biology – Short Answer \n In order for an animal to be classified as a coelomate [SEEL-oh-mate], it must have a body cavity that is completely lined with tissue from what germ layer? ",
+		"question":"Biology Short Answer \n In order for an animal to be classified, as a coelomate , it must have a body cavity, that is completely lined with tissue from what germ layer? ",
 		"answer":"ANSWER: MESODERM  ",
 		"c":9
 	},
 	{
-		"question":"Earth and Space – Short Answer \n How many known objects in our solar system have a radius that is larger than that of Earth? ",
+		"question":"Earth and Space Short Answer \n How many known objects in our solar system have a radius, that is larger than that of Earth? ",
 		"answer":"ANSWER: FIVE ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Earth and Space – Short Answer \n Identify all of the following three types of objects that could be considered meteors: 1) Fragments of asteroids; 2) Fragments of comets; 3) Impact debris from Mars. ",
+		"question":"Earth and Space Short Answer \n Identify all of the following three types of objects, that could be considered meteors: 1) Fragments of asteroids; 2) Fragments of comets; 3) Impact debris from Mars. ",
 		"answer":"ANSWER: ALL  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Chemistry – Short Answer \n In the Clemmensen reduction, zinc amalgam is used to reduce ketones [KEE-tones] and aldehydes to alkanes. In the preparation of zinc amalgam, in what substance is zinc dissolved? ",
+		"question":"Chemistry Short Answer \n In the Clemmensen reduction, zinc amalgam is used to reduce ketones and aldehydes to alkanes. In the preparation of zinc amalgam, in what substance is zinc dissolved? ",
 		"answer":"ANSWER: MERCURY ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Chemistry – Short Answer \n Identify all of the following three statements that are true regarding enthalpies of reaction: 1) For the formation of water from oxygen and hydrogen, the enthalpy [EN-thulpee] change depends on the final phase of the water; 2) For the combustion of methane, the forward reaction and the reverse reaction have the same enthalpy; 3) Enthalpy is an intensive property. ",
+		"question":"Chemistry Short Answer \n Identify all of the following three statements, that are true regarding enthalpies of reaction: 1) For the formation of water from oxygen and hydrogen, the enthalpy change depends on the final phase of the water; 2) For the combustion of methane, the forward reaction and the reverse reaction have the same enthalpy; 3) Enthalpy is an intensive property. ",
 		"answer":"ANSWER: 1  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Physics – Multiple Choice \n Hubble’s law states that there is a direct correlation between the distance to a galaxy and which of the following quantities: \n W) Recessional velocity \n X) Total mass \n Y) Blue-shift wavelength \n Z) Precession period ",
+		"question":"Physics Multiple Choice \n Hubble’s law states that there is a direct correlation, between the distance to a galaxy and which of the following quantities: \n W) Recessional velocity \n X) Total mass \n Y) Blue-shift wavelength \n Z) Precession period ",
 		"answer":"ANSWER: W) RECESSIONAL VELOCITY ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Physics – Short Answer \n A track star runs exactly one lap around a circular track at a constant speed. Identify all of the following three statements that are true of this system: 1) Her average speed is greater than the magnitude of her average velocity; 2) Her velocity is constant; 3) The magnitude of her average velocity after half of her journey is equal to her average speed at that time. ",
+		"question":"Physics Short Answer \n A track star runs exactly one lap, around a circular track at a constant speed. Identify all of the following three statements that are true of this system: 1) Her average speed is greater than the magnitude of her average velocity; 2) Her velocity is constant; 3) The magnitude of her average velocity, after half of her journey, is equal to her average speed at that time. ",
 		"answer":"ANSWER: 1  ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Math – Short Answer \n Solve the following equation for x: the absolute value of open parenthesis x – 3 close parenthesis is equal to 5. ",
+		"question":"Math Short Answer \n Solve the following equation for x:, the absolute value of open parenthesis, x minus 3, close parenthesis, is equal to 5. ",
 		"answer":"ANSWER: –2 AND 8 ",
-		"c":9
+		"c":1
 	},
 	{
-		"question":"Math – Short Answer \n What is the derivative evaluated at x = 5 of the fraction with numerator x3 – 8 and denominator x – 2? ",
+		"question":"Math Short Answer \n What is the derivative evaluated at x = 5, of the fraction, with numerator, x cube minus 8, and, denominator, x minus 2? ",
 		"answer":"ANSWER: 12",
-		"c":9
-	},
+		"c":1
+	}
 ]
