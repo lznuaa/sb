@@ -1,0 +1,232 @@
+[
+	{
+		"question":"Physics Short Answer \n In orbital mechanics, what are the points called, where a small object can maintain a constant position, relative to two larger massive bodies? ",
+		"answer":"ANSWER: LAGRANGIAN POINTS (ACCEPT: L POINTS) ",
+		"c":1
+	},
+	{
+		"question":"Physics Short Answer \n Order the following four materials, from most negative to most positive, in terms of their charge affinity, when they undergo triboelectric contact charging: 1) Paper; 2) Silver; 3) Rabbit fur; 4) PVC plastic. ",
+		"answer":"ANSWER: 4, 2, 1, 3 (ACCEPT: PVC PLASTIC, SILVER, PAPER, RABBIT FUR)  ",
+		"c":9
+	},
+	{
+		"question":"Earth and Space Multiple Choice \n Which of the following is closest to the average speed of the Earth’s tectonic  plates, in centimeters of relative motion per year? \n W) 0.1 \n X) 3 \n Y) 50 \n Z) 200 ",
+		"answer":"ANSWER: X) 3 ",
+		"c":1
+	},
+	{
+		"question":"Earth and Space Multiple Choice \n The ocean floor can be mapped by altimeters on satellites. Which of the following best describes how this method functions? \n W) The altimeter maps the ocean surface with radar, which is affected by underlying topography \n X) The altimeter maps the floor using sonar beams attached to the body of the altimeter \n Y) The altimeter communicates with an underwater remotely operated vehicle, which maps the ocean floor beneath it \n Z) The altimeter communicates with a manned submersible, which maps the ocean floor beneath it ",
+		"answer":"ANSWER: W) THE ALTIMETER MAPS THE OCEAN SURFACE WITH RADAR, WHICH IS AFFECTED BY UNDERLYING TOPOGRAPHY  ",
+		"c":9
+	},
+	{
+		"question":"Energy Short Answer \n Los Alamos National Lab scientists, recently observed a special type of Bose - Einstein condensate in a two-dimensional lattice. This room-temperature condensate was composed of, what quasiparticles that carry vibrational energy in the lattice? ",
+		"answer":"ANSWER: PHONON ",
+		"c":9
+	},
+	{
+		"question":"Energy Short Answer \n Scientists at Lawrence Berkeley National Lab recently, constructed a genome - wide map of more than 80,000 cis-acting DNA elements, relevant to human heart development. What is the name of these eukaryotic DNA elements, that are outside gene promoters and, contain binding sites for transcription factors? ",
+		"answer":"ANSWER: ENHANCERS  ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n What is the molecular geometry of phosphorus pentachloride? ",
+		"answer":"ANSWER: TRIGONAL BIPYRAMIDAL ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n Identify all of the following three hydrogen atoms, that could be deprotonated by sodium amide: 1) Hydrogen on terminal alkyne; 2) Hydrogen alpha to ketone; 3) Hydrogen on tri-substituted alkene. ",
+		"answer":"ANSWER: 1 AND 2  ",
+		"c":9
+	},
+	{
+		"question":"Math Multiple Choice \n Which of the following equations is that of a line, perpendicular to the line with equation,  4x, minus, 5y, = 20? \n W) 4x, minus, 5y = 40 \n X) 4x, + ,5y = 40 \n Y) 5x , minus, 4y = 40 \n Z) 5x, +, 4y = 40 ",
+		"answer":"ANSWER: Z) 5x + 4y = 40 ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n What is the area of a triangle with sides of length, 17\n 12\n and 11? ",
+		"answer":"ANSWER: 12√30  ",
+		"c":1
+	},
+	{
+		"question":"Biology Short Answer \n What stage in animal development follows, the blastula and is associated with the embryo folding inward? ",
+		"answer":"ANSWER: GASTRULA (ACCEPT: GASTRULATION) ",
+		"c":9
+	},
+	{
+		"question":"Biology Short Answer \n In the Meselson-Stahl experiment, cells containing heavy DNA were, replicated in a medium containing light DNA, leading to a generation with all intermediate-weight DNA. Identify all of the following weights of DNA that would be found in cells in the next generation: 1) Heavy; 2) Intermediate; 3) Light. ",
+		"answer":"ANSWER: 2 AND 3  ",
+		"c":9
+	},
+	{
+		"question":"Earth and Space Multiple Choice \n Sustained periods of organic carbon burial over geologic time, will most likely lead to which of the following? \n W) Ocean acidification \n X) Increased atmospheric O2 \n Y) Increased surface temperature \n Z) Increased ocean upwelling ",
+		"answer":"ANSWER: X) INCREASED ATMOSPHERIC O2 ",
+		"c":1
+	},
+	{
+		"question":"Earth and Space Short Answer \n Identify all of the following three statements ,that are true of valley formation: 1) Glacial valleys are typically V-shaped; 2) Mountain river valleys are typically U-shaped; 3) Hanging valleys result from glacial processes. ",
+		"answer":"ANSWER: 3  ",
+		"c":1
+	},
+	{
+		"question":"Energy Short Answer \n One of the goals of Fermilab scientists participating in the Dark Energy Survey is, to use the data to find dwarf galaxies. Identify all of the following three statements, that are true about these dwarf galaxies: 1) Several dwarf galaxies orbit the Milky Way; 2) Some dwarf galaxies contain 100 billion stars; 3) Dwarf galaxies can contain dark matter. ",
+		"answer":"ANSWER: 1 AND 3 ",
+		"c":9
+	},
+	{
+		"question":"Energy Multiple Choice \n Scientists at Oak Ridge National Laboratory, are researching ways to generate electricity from waste heat. What is the name of the effect they are taking advantage of? \n W) Compton Effect \n X) Hall Effect \n Y) Photoelectric Effect \n Z) Seebeck Effect ",
+		"answer":"ANSWER: Z) SEEBECK EFFECT  ",
+		"c":9
+	},
+	{
+		"question":"Physics Multiple Choice \n An object is placed 17 centimeters, to the left of the vertex of a concave spherical mirror, with a radius of curvature of 30 centimeters. Which of the following pairs of properties describe the image formed? \n W) Real and upright \n X) Real and inverted \n Y) Virtual and upright \n Z) Virtual and inverted ",
+		"answer":"ANSWER: X) REAL AND INVERTED ",
+		"c":9
+	},
+	{
+		"question":"Physics Short Answer \n A softball player exerts a constant, 10-newton force, to accelerate a, 180-gram, ball from ,rest, to ,30 meters per second. In seconds, how long does she take to throw the ball? ",
+		"answer":"ANSWER: 0.54 (ACCEPT: 27/50)  ",
+		"c":9
+	},
+	{
+		"question":"Math Multiple Choice \n For a twice-differentiable function, f of x\n f of 4 is 5\n f prime of 4 is 0 \n and f double prime of 4, is –6\n. Which of the following is true of the graph of y = f of x, at the point (4, 5)? \n W) There is a local minimum \n X) There is a local maximum \n Y) There is an inflection point \n Z) The graph is concave up ",
+		"answer":"ANSWER: X) THERE IS A LOCAL MAXIMUM ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n One dimension of a cube is increased by 3 \n another is decreased by 3, and the other is left unchanged. If the new solid has a volume 45 less than that of the original cube, what was the volume of the original cube? ",
+		"answer":"ANSWER: 125  ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n Chlorine gas is prepared via the electrolysis of aqueous sodium chloride. This process also produces what strong base? ",
+		"answer":"ANSWER: SODIUM HYDROXIDE (ACCEPT: NaOH) ",
+		"c":1
+	},
+	{
+		"question":"Chemistry Short Answer \n Rank the following three elements in increasing order of first ionization  energy: 1) Beryllium ; 2) Boron; 3) Carbon. ",
+		"answer":"ANSWER: 2, 1, 3  ",
+		"c":1
+	},
+	{
+		"question":"Biology Short Answer \n Generation of ATP during oxidative phosphorylation, is driven by a chemiosmotic  gradient of, what substance? ",
+		"answer":"ANSWER: PROTONS (ACCEPT: H+) ",
+		"c":9
+	},
+	{
+		"question":"Biology Short Answer \n What specific type of glial cell serves as the immune response in the central nervous system? ",
+		"answer":"ANSWER: MICROGLIA [micro-GLEE-ah]  ",
+		"c":9
+	},
+	{
+		"question":"Physics Multiple Choice \n Which of the following distributions best describes, the emission spectrum of cosmic microwave background radiation? \n W) Gaussian \n X) Fermi-Dirac \n Y) Maxwell-Boltzmann \n Z) Blackbody ",
+		"answer":"ANSWER: Z) BLACKBODY ",
+		"c":1
+	},
+	{
+		"question":"Physics Short Answer \n A 5-kilogram, block is stationary, on an inclined plane, that is tilted 30 degrees from the horizontal. Increasing the incline by any amount causes the block to slip. To the nearest tenth, what is the coefficient of static friction between the block and the plane? ",
+		"answer":"ANSWER: 0.6  ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Multiple Choice \n If the standard change in Gibbs free energy of a reaction is negative, which of the following MUST be true, at standard temperature and pressure? \n W) Q is greater than one \n X) K is greater than one \n Y) Q is less than one \n Z) K is less than one ",
+		"answer":"ANSWER: X) K IS GREATER THAN ONE ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n Identify all of the following three functional groups, that are present in nucleotides: 1) Ether; 2) Alcohol; 3) Thiol. ",
+		"answer":"ANSWER: 1 and 2  ",
+		"c":9
+	},
+	{
+		"question":"Energy Short Answer \n Identify all of the following three statements that are true, of primary lithium cells: 1) The negative electrode is lithium; 2) They can be recharged; 3) They require no electrolyte. ",
+		"answer":"ANSWER: 1 ",
+		"c":9
+	},
+	{
+		"question":"Energy Short Answer \n Physicists at the SLAC National Accelerator Facility recently, provided limited evidence for the hypothesis that the gamma ray, positron, and antiproton excesses, from the galactic center were due to annihilation of particles of, what theoretical substance? ",
+		"answer":"ANSWER: DARK MATTER (ACCEPT: WEAKLY INTERACTING MASSIVE PARTICLES, WIMPS [wimps])  ",
+		"c":9
+	},
+	{
+		"question":"Math Short Answer \n A college class contains 25 freshmen\n 35 sophomores\n and 28 juniors\n One of the students receives a phone call during the middle of the class. What is the probability that the ringing phone belongs to a junior? ",
+		"answer":"ANSWER: 7/22 ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n What is the sixteenth power of 1 + i ? ",
+		"answer":"ANSWER: 256 (ACCEPT: 256 + 0i)  ",
+		"c":1
+	},
+	{
+		"question":"Earth and Space Short Answer \n What rock is transitional between igneous and metamorphic rocks, in which the felsic minerals have melted and recrystalized, but the mafic minerals have not? ",
+		"answer":"ANSWER: MIGMATITE ",
+		"c":9
+	},
+	{
+		"question":"Earth and Space Short Answer \n Identify all of the following three oxide minerals, in which all of the iron is in the three plus oxidation state: 1) Ferrihydrite ; 2) Magnetite; 3) Goethite . ",
+		"answer":"ANSWER: 1 AND 3  ",
+		"c":9
+	},
+	{
+		"question":"Biology Short Answer \n Chromatin is a complex structure consisting of DNA wrapped around what proteins? ",
+		"answer":"ANSWER: HISTONES ",
+		"c":1
+	},
+	{
+		"question":"Biology Short Answer \n The somatosensory cortex is located in, what lobe of the human cerebral cortex? ",
+		"answer":"ANSWER: PARIETAL  ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n If an exterior angle adjacent to a base angle of, an isosceles triangle measures, 124 degrees, what is the degree measure of the vertex angle? ",
+		"answer":"ANSWER: 68 ",
+		"c":1
+	},
+	{
+		"question":"Math Short Answer \n What is the remainder when, 2x cube, + 5x square, minus,  6x, +, 2 is divided by the binomial, x + 3? ",
+		"answer":"ANSWER: 11  ",
+		"c":1
+	},
+	{
+		"question":"Earth and Space Short Answer \n If the moon is setting around midnight, then it is closest to what phase of the moon? ",
+		"answer":"ANSWER: FIRST QUARTER ",
+		"c":9
+	},
+	{
+		"question":"Earth and Space Short Answer \n Due to tidal interactions, the orbital periods of Ganymede, Europa, and Io form a geometric sequence. When in this order, what is the common ratio of the sequence? ",
+		"answer":"ANSWER: ½ (ACCEPT: 0.5)  ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n What is the term for copolymers, that contain continuous segments of single monomers, rather than a random assortment of single monomers one after another? ",
+		"answer":"ANSWER: BLOCK POLYMER (ACCEPT: BLOCK COPOLYMER) ",
+		"c":9
+	},
+	{
+		"question":"Chemistry Short Answer \n The osmotic pressure of a, 0.5 molar, solution of glucose is measured to be, 12 atmospheres. To the nearest whole atmosphere, what is the osmotic pressure of, a 2-molar solution of glucose? ",
+		"answer":"ANSWER: 48  ",
+		"c":9
+	},
+	{
+		"question":"Physics Short Answer \n In beta plus decay, what specific virtual particle mediates the conversion of a proton into a neutron, positron, and neutrino? ",
+		"answer":"ANSWER: W PLUS BOSON ",
+		"c":9
+	},
+	{
+		"question":"Physics Short Answer \n Two objects each carry one coulomb of excess charge, with one being positive and the other being negative. To the nearest integer multiple of one thousand meters, how far apart must they be so that, they have a 22.5-newton attraction between them? ",
+		"answer":"ANSWER: 20,000  ",
+		"c":9
+	},
+	{
+		"question":"Biology Short Answer \n Identify all of the following three types of genetic material, that viruses are known to carry: 1) dsDNA; 2) ssDNA; 3) dsRNA. ",
+		"answer":"ANSWER: ALL ",
+		"c":9
+	},
+	{
+		"question":"Biology Short Answer \n Identify all of the following three statements that are true, of G3P and DHAP, the products of aldolase acting upon fructose-1,6-bisphosphate: 1) They are diastereomers of each other; 2) They are both 4-carbon sugars; 3) G3P is used for the next step of glycolysis. ",
+		"answer":"ANSWER: 3",
+		"c":9
+	}
+]
